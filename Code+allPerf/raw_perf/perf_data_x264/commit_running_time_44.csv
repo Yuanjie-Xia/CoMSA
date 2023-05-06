@@ -1,0 +1,1537 @@
+,config,time
+0,../x264/x264 --rc-lookahead 20 --ref 1 ,5.7837638664999815
+1,../x264/x264 --rc-lookahead 20 --ref 5 ,7.742824740499998
+2,../x264/x264 --rc-lookahead 20 --ref 9 ,10.143198769500003
+3,../x264/x264 --rc-lookahead 40 --ref 1 ,6.009229742499997
+4,../x264/x264 --rc-lookahead 40 --ref 5 ,7.926141723499995
+5,../x264/x264 --rc-lookahead 40 --ref 9 ,10.262305172500021
+6,../x264/x264 --no-weightb --rc-lookahead 20 --ref 1 ,5.780287046000012
+7,../x264/x264 --no-weightb --rc-lookahead 20 --ref 5 ,7.721902032000003
+8,../x264/x264 --no-weightb --rc-lookahead 20 --ref 9 ,10.121452089000002
+9,../x264/x264 --no-weightb --rc-lookahead 40 --ref 1 ,5.969404788999981
+10,../x264/x264 --no-weightb --rc-lookahead 40 --ref 5 ,7.925440926500016
+11,../x264/x264 --no-weightb --rc-lookahead 40 --ref 9 ,10.269841941999971
+12,../x264/x264 --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.777285332499957
+13,../x264/x264 --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.667744382500018
+14,../x264/x264 --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.200672347999955
+15,../x264/x264 --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.988269055500041
+16,../x264/x264 --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.854835438000009
+17,../x264/x264 --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.331973904999984
+18,../x264/x264 --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.778172375000054
+19,../x264/x264 --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.666129688000012
+20,../x264/x264 --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.136423424500038
+21,../x264/x264 --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.985834735000083
+22,../x264/x264 --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.838021475000005
+23,../x264/x264 --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.308262631500043
+24,../x264/x264 --no-mbtree --rc-lookahead 20 --ref 1 ,6.2232594515000415
+25,../x264/x264 --no-mbtree --rc-lookahead 20 --ref 5 ,8.456259924999983
+26,../x264/x264 --no-mbtree --rc-lookahead 20 --ref 9 ,11.15098472599999
+27,../x264/x264 --no-mbtree --rc-lookahead 40 --ref 1 ,6.199933278000003
+28,../x264/x264 --no-mbtree --rc-lookahead 40 --ref 5 ,8.431610400999944
+29,../x264/x264 --no-mbtree --rc-lookahead 40 --ref 9 ,11.152570122999919
+30,../x264/x264 --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,6.252703362499915
+31,../x264/x264 --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.512888846500005
+32,../x264/x264 --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,11.19574987999988
+33,../x264/x264 --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,6.2644095394999795
+34,../x264/x264 --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.544703780999953
+35,../x264/x264 --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,11.09852449999994
+36,../x264/x264 --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,6.241597987499972
+37,../x264/x264 --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,7.174130952000041
+38,../x264/x264 --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.738983581999946
+39,../x264/x264 --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.225559373500005
+40,../x264/x264 --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.146811542500018
+41,../x264/x264 --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.806616063500087
+42,../x264/x264 --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,6.268910588499921
+43,../x264/x264 --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.203581694500031
+44,../x264/x264 --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.780558032000044
+45,../x264/x264 --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,6.307774611500122
+46,../x264/x264 --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.185552978500141
+47,../x264/x264 --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.789763446500046
+48,../x264/x264 --no-fast-pskip --rc-lookahead 20 --ref 1 ,5.821121115499977
+49,../x264/x264 --no-fast-pskip --rc-lookahead 20 --ref 5 ,8.129146295000055
+50,../x264/x264 --no-fast-pskip --rc-lookahead 20 --ref 9 ,10.671698894499968
+51,../x264/x264 --no-fast-pskip --rc-lookahead 40 --ref 1 ,6.041604738500041
+52,../x264/x264 --no-fast-pskip --rc-lookahead 40 --ref 5 ,8.265464808499928
+53,../x264/x264 --no-fast-pskip --rc-lookahead 40 --ref 9 ,10.847831087500026
+54,../x264/x264 --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,5.834747580000112
+55,../x264/x264 --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,8.066073518000053
+56,../x264/x264 --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,10.733005276499966
+57,../x264/x264 --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,6.054365235000091
+58,../x264/x264 --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,8.2495337255001
+59,../x264/x264 --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,10.91343731400002
+60,../x264/x264 --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.839369421499896
+61,../x264/x264 --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.920845565500031
+62,../x264/x264 --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.638043079999989
+63,../x264/x264 --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.0182690330002515
+64,../x264/x264 --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.139779152499841
+65,../x264/x264 --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.795059358499884
+66,../x264/x264 --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.821063489999688
+67,../x264/x264 --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.939652585499971
+68,../x264/x264 --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.71023015899982
+69,../x264/x264 --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,6.050427887000296
+70,../x264/x264 --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.159928060499851
+71,../x264/x264 --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.796026582499735
+72,../x264/x264 --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,6.226680980500078
+73,../x264/x264 --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,8.69965069749992
+74,../x264/x264 --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,11.65130836000003
+75,../x264/x264 --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,6.249234065999872
+76,../x264/x264 --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,8.700585500999978
+77,../x264/x264 --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,11.643132936000029
+78,../x264/x264 --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,6.30035318399996
+79,../x264/x264 --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.785814735500253
+80,../x264/x264 --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,11.703459832499902
+81,../x264/x264 --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,6.322870412499697
+82,../x264/x264 --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.787342958999943
+83,../x264/x264 --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,11.713033778499721
+84,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,6.276135898499888
+85,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,7.403412881000122
+86,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,9.26205683850003
+87,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.242756888499798
+88,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.40435078199971
+89,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,9.197293093000098
+90,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,6.298660977500049
+91,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.455627656000161
+92,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,9.30494942050018
+93,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,6.286950858499722
+94,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.4801365035000345
+95,../x264/x264 --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,9.252029839499983
+96,../x264/x264 --no-deblock --rc-lookahead 20 --ref 1 ,5.760921697999947
+97,../x264/x264 --no-deblock --rc-lookahead 20 --ref 5 ,7.733473898500051
+98,../x264/x264 --no-deblock --rc-lookahead 20 --ref 9 ,10.206504877000043
+99,../x264/x264 --no-deblock --rc-lookahead 40 --ref 1 ,5.9723569325001336
+100,../x264/x264 --no-deblock --rc-lookahead 40 --ref 5 ,7.999562424500255
+101,../x264/x264 --no-deblock --rc-lookahead 40 --ref 9 ,10.366782238500264
+102,../x264/x264 --no-deblock --no-weightb --rc-lookahead 20 --ref 1 ,5.7603789435002
+103,../x264/x264 --no-deblock --no-weightb --rc-lookahead 20 --ref 5 ,7.753026584999816
+104,../x264/x264 --no-deblock --no-weightb --rc-lookahead 20 --ref 9 ,10.204224470999861
+105,../x264/x264 --no-deblock --no-weightb --rc-lookahead 40 --ref 1 ,5.9590601144998345
+106,../x264/x264 --no-deblock --no-weightb --rc-lookahead 40 --ref 5 ,7.9306733119999535
+107,../x264/x264 --no-deblock --no-weightb --rc-lookahead 40 --ref 9 ,10.356582585500064
+108,../x264/x264 --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.767925569500221
+109,../x264/x264 --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.659864678499844
+110,../x264/x264 --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.209269639999775
+111,../x264/x264 --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.003113949499948
+112,../x264/x264 --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.860385962500004
+113,../x264/x264 --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.3140989085
+114,../x264/x264 --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.768397440500166
+115,../x264/x264 --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.64795374900018
+116,../x264/x264 --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.129635723999854
+117,../x264/x264 --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.972704939499863
+118,../x264/x264 --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.810420799000212
+119,../x264/x264 --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.25201247300015
+120,../x264/x264 --no-deblock --no-mbtree --rc-lookahead 20 --ref 1 ,6.183876130500039
+121,../x264/x264 --no-deblock --no-mbtree --rc-lookahead 20 --ref 5 ,8.479264431500042
+122,../x264/x264 --no-deblock --no-mbtree --rc-lookahead 20 --ref 9 ,11.174545612999964
+123,../x264/x264 --no-deblock --no-mbtree --rc-lookahead 40 --ref 1 ,6.190926490000038
+124,../x264/x264 --no-deblock --no-mbtree --rc-lookahead 40 --ref 5 ,8.469006933499713
+125,../x264/x264 --no-deblock --no-mbtree --rc-lookahead 40 --ref 9 ,11.225428636999368
+126,../x264/x264 --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,6.249674983499972
+127,../x264/x264 --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.535173266000584
+128,../x264/x264 --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,11.255985852500089
+129,../x264/x264 --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,6.253773124500185
+130,../x264/x264 --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.523584917499647
+131,../x264/x264 --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,11.26489753650003
+132,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,6.2038560339997275
+133,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,7.146154097999897
+134,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.73853066950005
+135,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.20401971650017
+136,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.21478994149993
+137,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.754929360499773
+138,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,6.237616790000175
+139,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.191517216499506
+140,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.790941661000033
+141,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,6.245594521500607
+142,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.197890510500201
+143,../x264/x264 --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.822782123999787
+144,../x264/x264 --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 1 ,5.814507666999816
+145,../x264/x264 --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 5 ,8.147024744500413
+146,../x264/x264 --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 9 ,10.757292453999526
+147,../x264/x264 --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 1 ,6.043815085999995
+148,../x264/x264 --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 5 ,8.277463962000184
+149,../x264/x264 --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 9 ,10.958892528000433
+150,../x264/x264 --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,5.828549124000347
+151,../x264/x264 --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,8.092654531500102
+152,../x264/x264 --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,10.796320569499585
+153,../x264/x264 --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,6.04715962399996
+154,../x264/x264 --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,8.258299097500185
+155,../x264/x264 --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,10.97292547149982
+156,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.829042677500638
+157,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.92836189100035
+158,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.607903734000047
+159,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.026359449000211
+160,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.111503180999989
+161,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.806464739999683
+162,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.8076881305000825
+163,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.925360206000278
+164,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.688628506999976
+165,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,6.008437975499874
+166,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.189418452499922
+167,../x264/x264 --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.780571843000416
+168,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,6.243926271499731
+169,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,8.721538398499888
+170,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,11.705975587000466
+171,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,6.233886849499868
+172,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,8.709464687499803
+173,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,11.678843855499963
+174,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,6.307470490000014
+175,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.79027687450025
+176,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,11.734045981500003
+177,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,6.282348154999909
+178,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.760339580500386
+179,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,11.737327507999908
+180,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,6.231245089000367
+181,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,7.373591135000424
+182,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,9.239859305999744
+183,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.234633794500041
+184,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.411756402000265
+185,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,9.166635900000074
+186,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,6.302604589999646
+187,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.413856589000261
+188,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,9.266683436000221
+189,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,6.269751167500544
+190,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.511026139999558
+191,../x264/x264 --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,9.186952033499892
+192,../x264/x264 --no-cabac --rc-lookahead 20 --ref 1 ,5.730584884000109
+193,../x264/x264 --no-cabac --rc-lookahead 20 --ref 5 ,7.639914543000032
+194,../x264/x264 --no-cabac --rc-lookahead 20 --ref 9 ,9.961860240000078
+195,../x264/x264 --no-cabac --rc-lookahead 40 --ref 1 ,5.944169546500234
+196,../x264/x264 --no-cabac --rc-lookahead 40 --ref 5 ,7.810953642499953
+197,../x264/x264 --no-cabac --rc-lookahead 40 --ref 9 ,10.104867117499907
+198,../x264/x264 --no-cabac --no-weightb --rc-lookahead 20 --ref 1 ,5.719693113500398
+199,../x264/x264 --no-cabac --no-weightb --rc-lookahead 20 --ref 5 ,7.621778736500346
+200,../x264/x264 --no-cabac --no-weightb --rc-lookahead 20 --ref 9 ,9.976919853999789
+201,../x264/x264 --no-cabac --no-weightb --rc-lookahead 40 --ref 1 ,5.933566275499743
+202,../x264/x264 --no-cabac --no-weightb --rc-lookahead 40 --ref 5 ,7.782287998499669
+203,../x264/x264 --no-cabac --no-weightb --rc-lookahead 40 --ref 9 ,10.04339766799967
+204,../x264/x264 --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.744050639500074
+205,../x264/x264 --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.654477055500138
+206,../x264/x264 --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.169555715499882
+207,../x264/x264 --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.941264624500491
+208,../x264/x264 --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.843737799999417
+209,../x264/x264 --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.386646614499568
+210,../x264/x264 --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.730673850500352
+211,../x264/x264 --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.643549330500264
+212,../x264/x264 --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.090113189499789
+213,../x264/x264 --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.92803705499955
+214,../x264/x264 --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.816136049000306
+215,../x264/x264 --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.254849392500091
+216,../x264/x264 --no-cabac --no-mbtree --rc-lookahead 20 --ref 1 ,6.172190613499879
+217,../x264/x264 --no-cabac --no-mbtree --rc-lookahead 20 --ref 5 ,8.394650478500353
+218,../x264/x264 --no-cabac --no-mbtree --rc-lookahead 20 --ref 9 ,11.018918516999747
+219,../x264/x264 --no-cabac --no-mbtree --rc-lookahead 40 --ref 1 ,6.180891839499509
+220,../x264/x264 --no-cabac --no-mbtree --rc-lookahead 40 --ref 5 ,8.398131833000207
+221,../x264/x264 --no-cabac --no-mbtree --rc-lookahead 40 --ref 9 ,11.038509864500156
+222,../x264/x264 --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,6.235312771500048
+223,../x264/x264 --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.408595024000078
+224,../x264/x264 --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,11.075420897499953
+225,../x264/x264 --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,6.220323168499817
+226,../x264/x264 --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.44851970099944
+227,../x264/x264 --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,11.062975969499803
+228,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,6.178255654499935
+229,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,7.143687641500037
+230,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.71524593050026
+231,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.1702427554996575
+232,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.140462212500097
+233,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.720821967499887
+234,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,6.286807189999763
+235,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.1764431770002375
+236,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.812953864499832
+237,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,6.22363647299926
+238,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.17301956350002
+239,../x264/x264 --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.765097746000265
+240,../x264/x264 --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 1 ,5.804610123500424
+241,../x264/x264 --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 5 ,7.933513288499853
+242,../x264/x264 --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 9 ,10.601324011499855
+243,../x264/x264 --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 1 ,5.9950887664999755
+244,../x264/x264 --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 5 ,8.153507120000086
+245,../x264/x264 --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 9 ,10.710005503000048
+246,../x264/x264 --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,5.7663939425001445
+247,../x264/x264 --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,8.02392567149991
+248,../x264/x264 --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,10.481184666500212
+249,../x264/x264 --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,6.0139717750003
+250,../x264/x264 --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,8.128836531999696
+251,../x264/x264 --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,10.712911600000552
+252,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.777790270999958
+253,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.916533667999829
+254,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.618256802999895
+255,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.974085363499398
+256,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.118590159499945
+257,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.852334725500441
+258,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.769640281999273
+259,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.897980643499068
+260,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.675087341000108
+261,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.969723182499365
+262,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.089546587500081
+263,../x264/x264 --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.804266565000034
+264,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,6.210382131000188
+265,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,8.625638918500044
+266,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,11.528986174999773
+267,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,6.205791000999852
+268,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,8.628856027999973
+269,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,11.530817222000223
+270,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,6.282339919500373
+271,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.6934612594996
+272,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,11.568124900499242
+273,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,6.244727053500355
+274,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.76742561050014
+275,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,11.502345931000491
+276,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,6.210099247000471
+277,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,7.396709873000873
+278,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,9.244496946500476
+279,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.203676078499484
+280,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.373900114999742
+281,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,9.12330890550038
+282,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,6.256691248000607
+283,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.436487348500123
+284,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,9.291842378999718
+285,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,6.252778548000606
+286,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.436376572000881
+287,../x264/x264 --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,9.210519260000183
+288,../x264/x264 --no-cabac --no-deblock --rc-lookahead 20 --ref 1 ,5.716326464999838
+289,../x264/x264 --no-cabac --no-deblock --rc-lookahead 20 --ref 5 ,7.670763468499899
+290,../x264/x264 --no-cabac --no-deblock --rc-lookahead 20 --ref 9 ,9.989299761000439
+291,../x264/x264 --no-cabac --no-deblock --rc-lookahead 40 --ref 1 ,5.930393214500327
+292,../x264/x264 --no-cabac --no-deblock --rc-lookahead 40 --ref 5 ,7.8564606814998115
+293,../x264/x264 --no-cabac --no-deblock --rc-lookahead 40 --ref 9 ,10.158608404000006
+294,../x264/x264 --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 1 ,5.746207677499115
+295,../x264/x264 --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 5 ,7.629646370000955
+296,../x264/x264 --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 9 ,9.986460621000333
+297,../x264/x264 --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 1 ,5.9150562735003405
+298,../x264/x264 --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 5 ,7.810598204000598
+299,../x264/x264 --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 9 ,10.101419220499338
+300,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.72805228749894
+301,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.620797927499552
+302,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.101670924001155
+303,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.940426627500528
+304,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.81505270550042
+305,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.33507963449938
+306,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.714610995999465
+307,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.640273641999556
+308,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.049762575999921
+309,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.921001767499547
+310,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.789997000999392
+311,../x264/x264 --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.219811758500327
+312,../x264/x264 --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 1 ,6.191754198999661
+313,../x264/x264 --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 5 ,8.421516391500518
+314,../x264/x264 --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 9 ,10.980591311999888
+315,../x264/x264 --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 1 ,6.207467190500211
+316,../x264/x264 --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 5 ,8.411783831999855
+317,../x264/x264 --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 9 ,11.03860630249983
+318,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,6.200404862500363
+319,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.446014392999132
+320,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,11.087888096500137
+321,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,6.209296698000799
+322,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.443513671500114
+323,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,11.104800182000872
+324,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,6.171487546999742
+325,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,7.11586196350072
+326,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.679909927999688
+327,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.1917337035001765
+328,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.119728633500017
+329,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.677628087499215
+330,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,6.199221315499926
+331,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.159913668499939
+332,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.789808851499401
+333,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,6.21546221600056
+334,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.159312213500016
+335,../x264/x264 --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.72634691500025
+336,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 1 ,5.785198999000386
+337,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 5 ,7.948185392499909
+338,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 9 ,10.578348894500778
+339,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 1 ,5.982069136499376
+340,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 5 ,8.140590323499055
+341,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 9 ,10.721562136999637
+342,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,5.770880187999865
+343,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,8.035044784999627
+344,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,10.55002337750011
+345,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,5.967652437499964
+346,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,8.136978814500253
+347,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,10.722699683498831
+348,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.778117406999627
+349,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.889675450999675
+350,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.586956275000375
+351,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.000668770499033
+352,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.080907825500617
+353,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.841513246500654
+354,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.761697973500304
+355,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.956804599500174
+356,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.623253762000786
+357,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.970644023999739
+358,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.098050494500967
+359,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.76485883749956
+360,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,6.212697891500284
+361,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,8.678295802499633
+362,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,11.54624825799965
+363,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,6.214587426499747
+364,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,8.657264229000248
+365,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,11.550131316000261
+366,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,6.239704716999768
+367,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.746514885000579
+368,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,11.609525001999828
+369,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,6.2298278339994795
+370,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.727667492999899
+371,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,11.61629070700019
+372,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,6.204957121000007
+373,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,7.351737036499799
+374,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,9.227891763000116
+375,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,6.228013345499676
+376,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.357883116999801
+377,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,9.143689711499974
+378,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,6.230819443000655
+379,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.41550243599977
+380,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,9.21524157299973
+381,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,6.236147333498593
+382,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.475522702498893
+383,../x264/x264 --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,9.190259834000244
+384,../x264/x264 --no-8x8dct --rc-lookahead 20 --ref 1 ,5.559217992499725
+385,../x264/x264 --no-8x8dct --rc-lookahead 20 --ref 5 ,7.331188327000746
+386,../x264/x264 --no-8x8dct --rc-lookahead 20 --ref 9 ,9.581994884000778
+387,../x264/x264 --no-8x8dct --rc-lookahead 40 --ref 1 ,5.743925669999953
+388,../x264/x264 --no-8x8dct --rc-lookahead 40 --ref 5 ,7.561971864499355
+389,../x264/x264 --no-8x8dct --rc-lookahead 40 --ref 9 ,9.707999048499914
+390,../x264/x264 --no-8x8dct --no-weightb --rc-lookahead 20 --ref 1 ,5.550530900999547
+391,../x264/x264 --no-8x8dct --no-weightb --rc-lookahead 20 --ref 5 ,7.302379347000169
+392,../x264/x264 --no-8x8dct --no-weightb --rc-lookahead 20 --ref 9 ,9.509494039500169
+393,../x264/x264 --no-8x8dct --no-weightb --rc-lookahead 40 --ref 1 ,5.724251668499164
+394,../x264/x264 --no-8x8dct --no-weightb --rc-lookahead 40 --ref 5 ,7.471137815499787
+395,../x264/x264 --no-8x8dct --no-weightb --rc-lookahead 40 --ref 9 ,9.71863988700079
+396,../x264/x264 --no-8x8dct --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.534862394499214
+397,../x264/x264 --no-8x8dct --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.408939324999665
+398,../x264/x264 --no-8x8dct --no-mixed-refs --rc-lookahead 20 --ref 9 ,7.921527123000487
+399,../x264/x264 --no-8x8dct --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.736837528500473
+400,../x264/x264 --no-8x8dct --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.639035992499885
+401,../x264/x264 --no-8x8dct --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.090414295500523
+402,../x264/x264 --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.538566102000004
+403,../x264/x264 --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.3986261469990495
+404,../x264/x264 --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,7.8589000655001655
+405,../x264/x264 --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.725979248999465
+406,../x264/x264 --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.570842017000359
+407,../x264/x264 --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.042476190000343
+408,../x264/x264 --no-8x8dct --no-mbtree --rc-lookahead 20 --ref 1 ,5.898013627000182
+409,../x264/x264 --no-8x8dct --no-mbtree --rc-lookahead 20 --ref 5 ,7.97526587000084
+410,../x264/x264 --no-8x8dct --no-mbtree --rc-lookahead 20 --ref 9 ,10.553524370999185
+411,../x264/x264 --no-8x8dct --no-mbtree --rc-lookahead 40 --ref 1 ,5.90599441699942
+412,../x264/x264 --no-8x8dct --no-mbtree --rc-lookahead 40 --ref 5 ,7.965392131499357
+413,../x264/x264 --no-8x8dct --no-mbtree --rc-lookahead 40 --ref 9 ,10.520636317000026
+414,../x264/x264 --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,5.917713552999885
+415,../x264/x264 --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.107942363499205
+416,../x264/x264 --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,10.541744074499547
+417,../x264/x264 --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,5.921581629000684
+418,../x264/x264 --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.044815410499723
+419,../x264/x264 --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,10.560228270500374
+420,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.891119920000165
+421,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.851156536999952
+422,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.406588696499966
+423,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.892282826000155
+424,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.8567353159996856
+425,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.422445662000428
+426,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.932479926999804
+427,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.859767048499634
+428,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.476017406499523
+429,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.921173728500435
+430,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.942779157500809
+431,../x264/x264 --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.44141430900072
+432,../x264/x264 --no-8x8dct --no-fast-pskip --rc-lookahead 20 --ref 1 ,5.6031016024990095
+433,../x264/x264 --no-8x8dct --no-fast-pskip --rc-lookahead 20 --ref 5 ,7.635193339499892
+434,../x264/x264 --no-8x8dct --no-fast-pskip --rc-lookahead 20 --ref 9 ,10.136742037499971
+435,../x264/x264 --no-8x8dct --no-fast-pskip --rc-lookahead 40 --ref 1 ,5.791311777000374
+436,../x264/x264 --no-8x8dct --no-fast-pskip --rc-lookahead 40 --ref 5 ,7.831458676500006
+437,../x264/x264 --no-8x8dct --no-fast-pskip --rc-lookahead 40 --ref 9 ,10.31394687500051
+438,../x264/x264 --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,5.565628943499178
+439,../x264/x264 --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,7.638497464499778
+440,../x264/x264 --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,10.122100637000585
+441,../x264/x264 --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,5.770864584999799
+442,../x264/x264 --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,7.884211545500875
+443,../x264/x264 --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,10.24237172949961
+444,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.594406445000459
+445,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.6771080004991745
+446,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.409718465500191
+447,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.792751122499794
+448,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.884470468499785
+449,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.612392189499587
+450,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.566075180499865
+451,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.68545326200001
+452,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.452999447499678
+453,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.7802770530006455
+454,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.852055188000122
+455,../x264/x264 --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.577124522499616
+456,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,5.925478562499848
+457,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,8.239403992500229
+458,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,11.023141363999457
+459,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,5.926481986500221
+460,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,8.248640292499658
+461,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,11.03392532450016
+462,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,5.970634302999315
+463,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.340331509000862
+464,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,11.002306300499185
+465,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,5.963388345000567
+466,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.351530406000165
+467,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,11.026148598500185
+468,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.932104673999675
+469,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,7.086728193999988
+470,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.90671636550087
+471,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.929502096499164
+472,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.123435594498915
+473,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.854729735000546
+474,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.959857771500538
+475,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.102579771500132
+476,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.866918245000306
+477,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.9555916560002515
+478,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.110309934500037
+479,../x264/x264 --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.94827328700012
+480,../x264/x264 --no-8x8dct --no-deblock --rc-lookahead 20 --ref 1 ,5.521858424500351
+481,../x264/x264 --no-8x8dct --no-deblock --rc-lookahead 20 --ref 5 ,7.370769693499824
+482,../x264/x264 --no-8x8dct --no-deblock --rc-lookahead 20 --ref 9 ,9.557440572000814
+483,../x264/x264 --no-8x8dct --no-deblock --rc-lookahead 40 --ref 1 ,5.742795181000474
+484,../x264/x264 --no-8x8dct --no-deblock --rc-lookahead 40 --ref 5 ,7.510558706999291
+485,../x264/x264 --no-8x8dct --no-deblock --rc-lookahead 40 --ref 9 ,9.802497372499602
+486,../x264/x264 --no-8x8dct --no-deblock --no-weightb --rc-lookahead 20 --ref 1 ,5.518612346500049
+487,../x264/x264 --no-8x8dct --no-deblock --no-weightb --rc-lookahead 20 --ref 5 ,7.304928251000092
+488,../x264/x264 --no-8x8dct --no-deblock --no-weightb --rc-lookahead 20 --ref 9 ,9.594321382500311
+489,../x264/x264 --no-8x8dct --no-deblock --no-weightb --rc-lookahead 40 --ref 1 ,5.7111625545003335
+490,../x264/x264 --no-8x8dct --no-deblock --no-weightb --rc-lookahead 40 --ref 5 ,7.498566236498846
+491,../x264/x264 --no-8x8dct --no-deblock --no-weightb --rc-lookahead 40 --ref 9 ,9.707843118500023
+492,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.53869847200076
+493,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.398982742000953
+494,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 9 ,7.8600682915002835
+495,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.736049679000644
+496,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.597041755000646
+497,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.085501942498922
+498,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.509175874500215
+499,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.374700469499658
+500,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,7.860243968000759
+501,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.6906256334996215
+502,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.550011351499961
+503,../x264/x264 --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.059898088500631
+504,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 20 --ref 1 ,5.87804760850031
+505,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 20 --ref 5 ,8.008146217000103
+506,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 20 --ref 9 ,10.531909384000755
+507,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 40 --ref 1 ,5.881700025999635
+508,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 40 --ref 5 ,8.004255118999936
+509,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 40 --ref 9 ,10.574891954500345
+510,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,5.926538031499149
+511,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.063521160999699
+512,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,10.602017461999822
+513,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,5.909222119000333
+514,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.043192449499657
+515,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,10.566309582499343
+516,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.880080404998807
+517,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.819485482500568
+518,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.441542290500365
+519,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.8788852059997225
+520,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.827974820500458
+521,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.382448046999343
+522,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.920267259998582
+523,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.836891125498369
+524,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.425854508999691
+525,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.915296546500031
+526,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.850990170001751
+527,../x264/x264 --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.43763452750136
+528,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 1 ,5.570909527999902
+529,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 5 ,7.647853527001644
+530,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 9 ,10.212227110998356
+531,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 1 ,5.791378338000868
+532,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 5 ,7.846623978000935
+533,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 9 ,10.282902321499932
+534,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,5.569144883998888
+535,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,7.642852058501376
+536,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,10.176453654999932
+537,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,5.771854816499399
+538,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,7.791273433000242
+539,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,10.341918413500025
+540,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.5713635595002415
+541,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.6485994505001145
+542,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.403519220000817
+543,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.785980961500172
+544,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.828076091500407
+545,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.505096068000057
+546,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.569244961498043
+547,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.654591203499876
+548,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.338849308500357
+549,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.755236597498879
+550,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.825286589499228
+551,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.51629484049954
+552,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,5.909562907500003
+553,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,8.236928900500061
+554,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,11.085518096499072
+555,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,5.904927202000181
+556,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,8.25493119499879
+557,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,11.038236751997829
+558,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,5.9664200370007165
+559,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.2941936515017
+560,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,11.075481112498892
+561,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,5.934826778500792
+562,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.287607047499478
+563,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,11.076553850001801
+564,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.908455642000263
+565,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,7.022265892999712
+566,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.804178116499315
+567,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.907042065002315
+568,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,7.022215009499632
+569,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.79462013850025
+570,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.941256530997634
+571,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.083107590000509
+572,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.939199344998997
+573,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.952056654001353
+574,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.074655299498772
+575,../x264/x264 --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.827067444499335
+576,../x264/x264 --no-8x8dct --no-cabac --rc-lookahead 20 --ref 1 ,5.43615203850095
+577,../x264/x264 --no-8x8dct --no-cabac --rc-lookahead 20 --ref 5 ,7.207557985000676
+578,../x264/x264 --no-8x8dct --no-cabac --rc-lookahead 20 --ref 9 ,9.385428087500259
+579,../x264/x264 --no-8x8dct --no-cabac --rc-lookahead 40 --ref 1 ,5.6267275035006605
+580,../x264/x264 --no-8x8dct --no-cabac --rc-lookahead 40 --ref 5 ,7.401460105002116
+581,../x264/x264 --no-8x8dct --no-cabac --rc-lookahead 40 --ref 9 ,9.620849539500341
+582,../x264/x264 --no-8x8dct --no-cabac --no-weightb --rc-lookahead 20 --ref 1 ,5.396550908501013
+583,../x264/x264 --no-8x8dct --no-cabac --no-weightb --rc-lookahead 20 --ref 5 ,7.193738891999601
+584,../x264/x264 --no-8x8dct --no-cabac --no-weightb --rc-lookahead 20 --ref 9 ,9.344214772498162
+585,../x264/x264 --no-8x8dct --no-cabac --no-weightb --rc-lookahead 40 --ref 1 ,5.591646034501537
+586,../x264/x264 --no-8x8dct --no-cabac --no-weightb --rc-lookahead 40 --ref 5 ,7.3662728869985585
+587,../x264/x264 --no-8x8dct --no-cabac --no-weightb --rc-lookahead 40 --ref 9 ,9.589745197998127
+588,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.404419755001072
+589,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.341742810000142
+590,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 9 ,7.75279389249954
+591,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.617642924000393
+592,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.496543281999038
+593,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 9 ,7.959393764502238
+594,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.409325239501413
+595,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.282550383501075
+596,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,7.76485279300141
+597,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.6033437740006775
+598,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.48404201250014
+599,../x264/x264 --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,7.962669661999826
+600,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 20 --ref 1 ,5.768515785499403
+601,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 20 --ref 5 ,7.902419225500125
+602,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 20 --ref 9 ,10.336471365500984
+603,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 40 --ref 1 ,5.786721589500303
+604,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 40 --ref 5 ,7.855340086000069
+605,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 40 --ref 9 ,10.423978598499161
+606,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,5.803712971997811
+607,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,7.9323369245012145
+608,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,10.38907275100064
+609,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,5.790194446501118
+610,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,7.95610620250045
+611,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,10.379919721999613
+612,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.7928279350016965
+613,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.736719177499253
+614,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.306750668498353
+615,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.7977395380003145
+616,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.738366518999101
+617,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.303738989498015
+618,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.798549810502664
+619,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.794626778000747
+620,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.320455256500281
+621,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.797715257998789
+622,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.794907779998539
+623,../x264/x264 --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.308566199501001
+624,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 1 ,5.477019288498923
+625,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 5 ,7.501314565999564
+626,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 9 ,9.947314332999667
+627,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 1 ,5.670076653999786
+628,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 5 ,7.707790278500397
+629,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 9 ,10.19112753149966
+630,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,5.444568621500366
+631,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,7.509485337499427
+632,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,9.9352509024975
+633,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,5.637042933502016
+634,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,7.662692657000662
+635,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,10.136138510497403
+636,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.448824459001116
+637,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.570977043502353
+638,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.250512672500918
+639,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.676941619500212
+640,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.766935366500547
+641,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.43560440749934
+642,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.43868202449994
+643,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.562994928499393
+644,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.262685071500528
+645,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.626532374999442
+646,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.761990044000413
+647,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.400426593001612
+648,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,5.799807504998171
+649,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,8.19164976400134
+650,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,10.83908487449844
+651,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,5.792342631499196
+652,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,8.13097666000067
+653,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,10.892328601999907
+654,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,5.824813594499574
+655,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.217571099998167
+656,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,10.915939594999145
+657,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,5.813920134
+658,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.182470542500596
+659,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,10.934682416498617
+660,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.804634086000078
+661,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.952699822000795
+662,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.75672634699913
+663,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.814249389999532
+664,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.974227704500663
+665,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.716900303501461
+666,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.828174313001
+667,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,7.006236394998268
+668,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.783529715499753
+669,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.818490120498609
+670,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,7.006109877500421
+671,../x264/x264 --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.787960014000419
+672,../x264/x264 --no-8x8dct --no-cabac --no-deblock --rc-lookahead 20 --ref 1 ,5.410047142499025
+673,../x264/x264 --no-8x8dct --no-cabac --no-deblock --rc-lookahead 20 --ref 5 ,7.2500032285006455
+674,../x264/x264 --no-8x8dct --no-cabac --no-deblock --rc-lookahead 20 --ref 9 ,9.44043747050091
+675,../x264/x264 --no-8x8dct --no-cabac --no-deblock --rc-lookahead 40 --ref 1 ,5.636928124000406
+676,../x264/x264 --no-8x8dct --no-cabac --no-deblock --rc-lookahead 40 --ref 5 ,7.433616058500775
+677,../x264/x264 --no-8x8dct --no-cabac --no-deblock --rc-lookahead 40 --ref 9 ,9.610844405000535
+678,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 1 ,5.391621071999907
+679,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 5 ,7.219887755498348
+680,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 9 ,9.415596871498565
+681,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 1 ,5.597231696001472
+682,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 5 ,7.395799727501071
+683,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 9 ,9.553973756001142
+684,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.41001892049826
+685,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.302245972001401
+686,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 9 ,7.73210055400159
+687,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.637337757500063
+688,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.481222542999603
+689,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 9 ,7.932963392999227
+690,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.398380418499073
+691,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.270829015500567
+692,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,7.691119112501838
+693,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.6071527264975884
+694,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.457167561999086
+695,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,7.882991976000994
+696,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 1 ,5.750848608002343
+697,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 5 ,7.855925206999018
+698,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 9 ,10.384638047502449
+699,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 1 ,5.751528235499791
+700,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 5 ,7.8702683040010015
+701,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 9 ,10.37830795300033
+702,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,5.802174601500155
+703,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,7.940171242498764
+704,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,10.4455517865008
+705,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,5.801742563999142
+706,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,7.9330903200007015
+707,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,10.430711534498187
+708,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.787806870501299
+709,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.719529379497544
+710,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.271502641498955
+711,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.765186014001301
+712,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.710563238000759
+713,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.251835199000197
+714,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.78478155349876
+715,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.743262220999895
+716,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.28620556650094
+717,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.788452838500234
+718,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.7333988700011105
+719,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.284030482498565
+720,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 1 ,5.44865113600099
+721,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 5 ,7.543455353999889
+722,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 9 ,9.985669775500355
+723,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 1 ,5.650585051500457
+724,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 5 ,7.714695048998692
+725,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 9 ,10.150320201000795
+726,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,5.442575761999251
+727,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,7.522405028999856
+728,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,9.957905402998222
+729,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,5.631515440998555
+730,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,7.699855877997834
+731,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,10.13507925650083
+732,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.4483311969997885
+733,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.555465492501753
+734,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.218832300499344
+735,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.64018101450165
+736,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.743704549498943
+737,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.402580575499087
+738,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.428305189499952
+739,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.539814008499889
+740,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.236518471499949
+741,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.624032603998785
+742,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.725995626999065
+743,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.39993787450112
+744,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,5.780689341499965
+745,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,8.105626882999786
+746,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,10.861201928999435
+747,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,5.791025772499779
+748,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,8.133846080500007
+749,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,10.828216142499514
+750,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,5.809705600999223
+751,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,8.17716023200046
+752,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,10.86493921749934
+753,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,5.82643835250019
+754,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,8.175775747498847
+755,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,10.884183188998577
+756,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,5.78417235049892
+757,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,6.917006732999653
+758,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,8.681052280500808
+759,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,5.77775928200208
+760,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,6.901972671999829
+761,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,8.692842771999494
+762,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,5.809164895499634
+763,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,6.94851271349944
+764,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,8.698534035498596
+765,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,5.8115138435005065
+766,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,6.966786666998814
+767,../x264/x264 --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,8.72137887449935
+768,../x264/x264 --no-asm --rc-lookahead 20 --ref 1 ,31.7234427580006
+769,../x264/x264 --no-asm --rc-lookahead 20 --ref 5 ,44.726507708999634
+770,../x264/x264 --no-asm --rc-lookahead 20 --ref 9 ,59.76699073600139
+771,../x264/x264 --no-asm --rc-lookahead 40 --ref 1 ,32.30217382450064
+772,../x264/x264 --no-asm --rc-lookahead 40 --ref 5 ,45.298442862998854
+773,../x264/x264 --no-asm --rc-lookahead 40 --ref 9 ,60.3200752820012
+774,../x264/x264 --no-asm --no-weightb --rc-lookahead 20 --ref 1 ,31.74154949899821
+775,../x264/x264 --no-asm --no-weightb --rc-lookahead 20 --ref 5 ,44.72301517750202
+776,../x264/x264 --no-asm --no-weightb --rc-lookahead 20 --ref 9 ,59.75281831850043
+777,../x264/x264 --no-asm --no-weightb --rc-lookahead 40 --ref 1 ,32.33219225599896
+778,../x264/x264 --no-asm --no-weightb --rc-lookahead 40 --ref 5 ,45.24030188049801
+779,../x264/x264 --no-asm --no-weightb --rc-lookahead 40 --ref 9 ,60.17029187950175
+780,../x264/x264 --no-asm --no-mixed-refs --rc-lookahead 20 --ref 1 ,31.700807754999914
+781,../x264/x264 --no-asm --no-mixed-refs --rc-lookahead 20 --ref 5 ,39.688191192000886
+782,../x264/x264 --no-asm --no-mixed-refs --rc-lookahead 20 --ref 9 ,50.862161344501146
+783,../x264/x264 --no-asm --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.317512789999455
+784,../x264/x264 --no-asm --no-mixed-refs --rc-lookahead 40 --ref 5 ,40.31844114900014
+785,../x264/x264 --no-asm --no-mixed-refs --rc-lookahead 40 --ref 9 ,51.44395533900024
+786,../x264/x264 --no-asm --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,31.722893840000324
+787,../x264/x264 --no-asm --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,39.613321450498916
+788,../x264/x264 --no-asm --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,50.72203808000086
+789,../x264/x264 --no-asm --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,32.341475872000956
+790,../x264/x264 --no-asm --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,40.19689743100025
+791,../x264/x264 --no-asm --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,51.227715555500254
+792,../x264/x264 --no-asm --no-mbtree --rc-lookahead 20 --ref 1 ,34.29557992550144
+793,../x264/x264 --no-asm --no-mbtree --rc-lookahead 20 --ref 5 ,48.648611718999746
+794,../x264/x264 --no-asm --no-mbtree --rc-lookahead 20 --ref 9 ,65.2811063704994
+795,../x264/x264 --no-asm --no-mbtree --rc-lookahead 40 --ref 1 ,34.30682278900167
+796,../x264/x264 --no-asm --no-mbtree --rc-lookahead 40 --ref 5 ,48.73705169349887
+797,../x264/x264 --no-asm --no-mbtree --rc-lookahead 40 --ref 9 ,65.29705218600066
+798,../x264/x264 --no-asm --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,34.592461681000714
+799,../x264/x264 --no-asm --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,49.11205999699996
+800,../x264/x264 --no-asm --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,65.58153408949875
+801,../x264/x264 --no-asm --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,34.61122645149953
+802,../x264/x264 --no-asm --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,49.079133434499454
+803,../x264/x264 --no-asm --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,65.7778031575017
+804,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,34.32943875250021
+805,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.721514884999124
+806,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,54.612837193502855
+807,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,34.3320613449996
+808,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.72371345100146
+809,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,54.622772867000094
+810,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,34.580608795000444
+811,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,42.89670413949898
+812,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,54.70704044549893
+813,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,34.58513619150108
+814,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.89435486050206
+815,../x264/x264 --no-asm --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,54.74931932649997
+816,../x264/x264 --no-asm --no-fast-pskip --rc-lookahead 20 --ref 1 ,32.208751894999295
+817,../x264/x264 --no-asm --no-fast-pskip --rc-lookahead 20 --ref 5 ,47.679602981499556
+818,../x264/x264 --no-asm --no-fast-pskip --rc-lookahead 20 --ref 9 ,65.11621195249973
+819,../x264/x264 --no-asm --no-fast-pskip --rc-lookahead 40 --ref 1 ,32.818859499999235
+820,../x264/x264 --no-asm --no-fast-pskip --rc-lookahead 40 --ref 5 ,48.19001389749974
+821,../x264/x264 --no-asm --no-fast-pskip --rc-lookahead 40 --ref 9 ,65.53707199500059
+822,../x264/x264 --no-asm --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,32.227961575001245
+823,../x264/x264 --no-asm --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,47.72909313950004
+824,../x264/x264 --no-asm --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,65.20307321399741
+825,../x264/x264 --no-asm --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,32.84687439350091
+826,../x264/x264 --no-asm --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,48.27052278500196
+827,../x264/x264 --no-asm --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,65.5797459259993
+828,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,32.19857324850091
+829,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.292176276001555
+830,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,55.84045224900183
+831,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.857601156498276
+832,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.92385520150128
+833,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,56.27157425400219
+834,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,32.249949085497065
+835,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,42.46607940850299
+836,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,55.843808706002164
+837,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,32.84812365650214
+838,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.9103468170033
+839,../x264/x264 --no-asm --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,56.41672487899996
+840,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,34.695949059998384
+841,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,51.215128766994894
+842,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,69.66984899949966
+843,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,34.70632271800059
+844,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,51.05345355400277
+845,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,69.73587944199971
+846,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,34.93870426899957
+847,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,51.51957281200157
+848,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,70.23060994900152
+849,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,34.98717843700069
+850,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,51.48818193000261
+851,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,70.21780060500168
+852,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,34.69662315949972
+853,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,44.952845271502156
+854,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,58.71419370500007
+855,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,34.662180591501965
+856,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,44.9563262269985
+857,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,58.74758035050036
+858,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,34.96830258499904
+859,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,45.20737900050153
+860,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,58.98252204250093
+861,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,34.92695532650032
+862,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,45.232021611500386
+863,../x264/x264 --no-asm --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,59.001004583002214
+864,../x264/x264 --no-asm --no-deblock --rc-lookahead 20 --ref 1 ,31.954782140503085
+865,../x264/x264 --no-asm --no-deblock --rc-lookahead 20 --ref 5 ,45.21801196150045
+866,../x264/x264 --no-asm --no-deblock --rc-lookahead 20 --ref 9 ,60.42903324100189
+867,../x264/x264 --no-asm --no-deblock --rc-lookahead 40 --ref 1 ,32.58057835050204
+868,../x264/x264 --no-asm --no-deblock --rc-lookahead 40 --ref 5 ,45.939629522996256
+869,../x264/x264 --no-asm --no-deblock --rc-lookahead 40 --ref 9 ,61.0523184224985
+870,../x264/x264 --no-asm --no-deblock --no-weightb --rc-lookahead 20 --ref 1 ,31.940607125005045
+871,../x264/x264 --no-asm --no-deblock --no-weightb --rc-lookahead 20 --ref 5 ,45.22744373349997
+872,../x264/x264 --no-asm --no-deblock --no-weightb --rc-lookahead 20 --ref 9 ,60.40199055250196
+873,../x264/x264 --no-asm --no-deblock --no-weightb --rc-lookahead 40 --ref 1 ,32.53719276050106
+874,../x264/x264 --no-asm --no-deblock --no-weightb --rc-lookahead 40 --ref 5 ,45.75890031400195
+875,../x264/x264 --no-asm --no-deblock --no-weightb --rc-lookahead 40 --ref 9 ,60.933526019503915
+876,../x264/x264 --no-asm --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 1 ,31.905805656002485
+877,../x264/x264 --no-asm --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 5 ,39.931576198501716
+878,../x264/x264 --no-asm --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 9 ,51.142882152998936
+879,../x264/x264 --no-asm --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.620548062001035
+880,../x264/x264 --no-asm --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 5 ,40.54511725949851
+881,../x264/x264 --no-asm --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 9 ,51.68622938050248
+882,../x264/x264 --no-asm --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,31.946897665500728
+883,../x264/x264 --no-asm --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,39.88013676399714
+884,../x264/x264 --no-asm --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,51.1309671850031
+885,../x264/x264 --no-asm --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,32.565334791004716
+886,../x264/x264 --no-asm --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,40.47696400049972
+887,../x264/x264 --no-asm --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,51.54467846199623
+888,../x264/x264 --no-asm --no-deblock --no-mbtree --rc-lookahead 20 --ref 1 ,34.51330114300072
+889,../x264/x264 --no-asm --no-deblock --no-mbtree --rc-lookahead 20 --ref 5 ,49.15286377899611
+890,../x264/x264 --no-asm --no-deblock --no-mbtree --rc-lookahead 20 --ref 9 ,65.89653441349947
+891,../x264/x264 --no-asm --no-deblock --no-mbtree --rc-lookahead 40 --ref 1 ,34.51635839049777
+892,../x264/x264 --no-asm --no-deblock --no-mbtree --rc-lookahead 40 --ref 5 ,49.14804177949918
+893,../x264/x264 --no-asm --no-deblock --no-mbtree --rc-lookahead 40 --ref 9 ,65.96285316849753
+894,../x264/x264 --no-asm --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,34.68558818699603
+895,../x264/x264 --no-asm --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,49.51176786100041
+896,../x264/x264 --no-asm --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,66.12501932200394
+897,../x264/x264 --no-asm --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,34.72857980349727
+898,../x264/x264 --no-asm --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,49.42398699199475
+899,../x264/x264 --no-asm --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,66.15673751100258
+900,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,34.51405362899823
+901,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.89402869099649
+902,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,54.749392820998764
+903,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,34.58058405100019
+904,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.8034522260059
+905,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,54.626961648496945
+906,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,34.644016734000616
+907,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,42.89967009999964
+908,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,54.66650412150193
+909,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,34.59189955700276
+910,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.88202420300149
+911,../x264/x264 --no-asm --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,54.72262383800262
+912,../x264/x264 --no-asm --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 1 ,32.23743624350027
+913,../x264/x264 --no-asm --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 5 ,47.779325837000215
+914,../x264/x264 --no-asm --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 9 ,65.35566219999964
+915,../x264/x264 --no-asm --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 1 ,32.84597570150436
+916,../x264/x264 --no-asm --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 5 ,48.27534006350106
+917,../x264/x264 --no-asm --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 9 ,65.82251011850167
+918,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,32.23216702949867
+919,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,47.93242603649924
+920,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,65.44786841400128
+921,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,32.831692864503566
+922,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,48.441821570500906
+923,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,65.95986733950122
+924,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,32.222323903999495
+925,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.34331622250102
+926,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,55.705959549999534
+927,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.79132454899809
+928,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.90654146449742
+929,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,56.203681035505724
+930,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,32.250795465497504
+931,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,42.466322254498664
+932,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,55.82007520749539
+933,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,32.820192980499996
+934,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.90906418499799
+935,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,56.20829655950001
+936,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,34.65775382650099
+937,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,51.18034806700234
+938,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,69.9714433295012
+939,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,34.63225928350221
+940,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,51.18582539599811
+941,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,70.03797089750151
+942,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,34.88501623650154
+943,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,51.56162646499797
+944,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,70.37304670099911
+945,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,34.944206891999784
+946,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,51.58465624050223
+947,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,70.34311808549683
+948,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,34.668147656004294
+949,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,44.882086527002684
+950,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,58.75322040499668
+951,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,34.64751566999985
+952,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,44.86254958000063
+953,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,58.700914777000435
+954,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,34.93665423349739
+955,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,45.14507200099615
+956,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,58.891134380995936
+957,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,34.92134386700127
+958,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,45.1217354424989
+959,../x264/x264 --no-asm --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,58.901110226997844
+960,../x264/x264 --no-asm --no-cabac --rc-lookahead 20 --ref 1 ,31.190006264998374
+961,../x264/x264 --no-asm --no-cabac --rc-lookahead 20 --ref 5 ,44.11803041899839
+962,../x264/x264 --no-asm --no-cabac --rc-lookahead 20 --ref 9 ,58.8554220674996
+963,../x264/x264 --no-asm --no-cabac --rc-lookahead 40 --ref 1 ,31.85962599549748
+964,../x264/x264 --no-asm --no-cabac --rc-lookahead 40 --ref 5 ,44.74058231649906
+965,../x264/x264 --no-asm --no-cabac --rc-lookahead 40 --ref 9 ,59.607948867498635
+966,../x264/x264 --no-asm --no-cabac --no-weightb --rc-lookahead 20 --ref 1 ,31.27245958700223
+967,../x264/x264 --no-asm --no-cabac --no-weightb --rc-lookahead 20 --ref 5 ,44.15057556049942
+968,../x264/x264 --no-asm --no-cabac --no-weightb --rc-lookahead 20 --ref 9 ,58.74575958350033
+969,../x264/x264 --no-asm --no-cabac --no-weightb --rc-lookahead 40 --ref 1 ,31.813856388500426
+970,../x264/x264 --no-asm --no-cabac --no-weightb --rc-lookahead 40 --ref 5 ,44.66708514300262
+971,../x264/x264 --no-asm --no-cabac --no-weightb --rc-lookahead 40 --ref 9 ,59.2193186220029
+972,../x264/x264 --no-asm --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 1 ,31.223427564498706
+973,../x264/x264 --no-asm --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 5 ,39.49341146999723
+974,../x264/x264 --no-asm --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 9 ,50.701083828000264
+975,../x264/x264 --no-asm --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 1 ,31.874546892500803
+976,../x264/x264 --no-asm --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 5 ,40.165285817998665
+977,../x264/x264 --no-asm --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 9 ,51.31688213700181
+978,../x264/x264 --no-asm --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,31.21817945499788
+979,../x264/x264 --no-asm --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,39.41206872049952
+980,../x264/x264 --no-asm --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,50.58686705149739
+981,../x264/x264 --no-asm --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,31.809072493000713
+982,../x264/x264 --no-asm --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,40.01655212349942
+983,../x264/x264 --no-asm --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,51.11468223549673
+984,../x264/x264 --no-asm --no-cabac --no-mbtree --rc-lookahead 20 --ref 1 ,33.877187087502534
+985,../x264/x264 --no-asm --no-cabac --no-mbtree --rc-lookahead 20 --ref 5 ,48.333844825003325
+986,../x264/x264 --no-asm --no-cabac --no-mbtree --rc-lookahead 20 --ref 9 ,64.62814947600054
+987,../x264/x264 --no-asm --no-cabac --no-mbtree --rc-lookahead 40 --ref 1 ,33.88301664299797
+988,../x264/x264 --no-asm --no-cabac --no-mbtree --rc-lookahead 40 --ref 5 ,48.298733360999904
+989,../x264/x264 --no-asm --no-cabac --no-mbtree --rc-lookahead 40 --ref 9 ,64.75825672350038
+990,../x264/x264 --no-asm --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,34.0756690825001
+991,../x264/x264 --no-asm --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,48.647055536501284
+992,../x264/x264 --no-asm --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,65.00000101649857
+993,../x264/x264 --no-asm --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,34.09833460899972
+994,../x264/x264 --no-asm --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,48.58178722800221
+995,../x264/x264 --no-asm --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,64.83291228949383
+996,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,33.840159263505484
+997,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.536362555998494
+998,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,54.45613170450815
+999,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,33.910674049999216
+1000,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.519011185002455
+1001,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,54.38964586349903
+1002,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,34.2263033124982
+1003,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,42.67342286799976
+1004,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,55.3809742864978
+1005,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,34.573536840493034
+1006,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.887719772494165
+1007,../x264/x264 --no-asm --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,54.48268130899669
+1008,../x264/x264 --no-asm --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 1 ,31.54091763850738
+1009,../x264/x264 --no-asm --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 5 ,46.836345760006225
+1010,../x264/x264 --no-asm --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 9 ,63.93706433100306
+1011,../x264/x264 --no-asm --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 1 ,32.215696426996146
+1012,../x264/x264 --no-asm --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 5 ,47.4236924085053
+1013,../x264/x264 --no-asm --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 9 ,64.44549448450562
+1014,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,31.58404971550044
+1015,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,46.967271932502626
+1016,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,63.968093215997214
+1017,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,32.1760676039994
+1018,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,47.42830347849667
+1019,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,64.41381099249702
+1020,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,31.587307952009724
+1021,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.059846743497474
+1022,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,55.43306104699877
+1023,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.21248962149548
+1024,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.540637919999426
+1025,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,56.019991535999
+1026,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,31.5745470749971
+1027,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,42.043546274493565
+1028,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,55.453446058003465
+1029,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,32.15232785449916
+1030,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.622144781991665
+1031,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,55.95517606249632
+1032,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,34.09708146649791
+1033,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,50.49274547200184
+1034,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,68.99980447199778
+1035,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,34.108692349502235
+1036,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,50.497555159498006
+1037,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,69.09804767800233
+1038,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,34.31495402549626
+1039,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,50.898169733496616
+1040,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,69.38826247000543
+1041,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,34.31801758999063
+1042,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,50.885845547505596
+1043,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,69.35920365499624
+1044,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,34.08095876700099
+1045,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,44.59252386899607
+1046,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,58.35592459150212
+1047,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,34.13505493699631
+1048,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,44.58435528800328
+1049,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,58.495500831500976
+1050,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,34.29063974899327
+1051,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,44.818773127000895
+1052,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,58.64859751100448
+1053,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,34.34192475849704
+1054,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,44.811398298501445
+1055,../x264/x264 --no-asm --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,58.65299073199276
+1056,../x264/x264 --no-asm --no-cabac --no-deblock --rc-lookahead 20 --ref 1 ,31.371215773506265
+1057,../x264/x264 --no-asm --no-cabac --no-deblock --rc-lookahead 20 --ref 5 ,44.447784221498296
+1058,../x264/x264 --no-asm --no-cabac --no-deblock --rc-lookahead 20 --ref 9 ,59.37653458400018
+1059,../x264/x264 --no-asm --no-cabac --no-deblock --rc-lookahead 40 --ref 1 ,31.995609274497838
+1060,../x264/x264 --no-asm --no-cabac --no-deblock --rc-lookahead 40 --ref 5 ,45.084012338506
+1061,../x264/x264 --no-asm --no-cabac --no-deblock --rc-lookahead 40 --ref 9 ,59.8380953199885
+1062,../x264/x264 --no-asm --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 1 ,31.350667337501363
+1063,../x264/x264 --no-asm --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 5 ,44.417539023001154
+1064,../x264/x264 --no-asm --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 9 ,59.14846302950173
+1065,../x264/x264 --no-asm --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 1 ,31.91671451000002
+1066,../x264/x264 --no-asm --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 5 ,44.99785438099934
+1067,../x264/x264 --no-asm --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 9 ,59.720205694997276
+1068,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 1 ,31.338418615501723
+1069,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 5 ,39.64584937500331
+1070,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 9 ,50.811644677989534
+1071,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.006784328499634
+1072,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 5 ,40.20959716550715
+1073,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 9 ,51.386004627493094
+1074,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,31.34256097499747
+1075,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,39.55078171050263
+1076,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,50.59968489949824
+1077,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,31.901473256999452
+1078,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,40.113050319007016
+1079,../x264/x264 --no-asm --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,51.22326697000244
+1080,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 1 ,34.023070996998285
+1081,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 5 ,48.5712354050047
+1082,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 9 ,65.1099839449962
+1083,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 1 ,33.97717884300073
+1084,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 5 ,48.49935733500024
+1085,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 9 ,65.09411583199835
+1086,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,34.15847954099445
+1087,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,48.831120582995936
+1088,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,65.24069127750408
+1089,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,34.1961279294992
+1090,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,48.79174109450105
+1091,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,65.31112007800402
+1092,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,33.93115673150169
+1093,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.55173694099358
+1094,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,54.34159347899549
+1095,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,33.925927832504385
+1096,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.52461539399519
+1097,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,54.3166020935023
+1098,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,34.1829224874964
+1099,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,42.75443945600273
+1100,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,54.46492996701272
+1101,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,34.19550525399973
+1102,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.717477390491695
+1103,../x264/x264 --no-asm --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,54.470777292503044
+1104,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 1 ,31.680839925495093
+1105,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 5 ,47.16955972999858
+1106,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 9 ,64.21598768400872
+1107,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 1 ,32.369437661996926
+1108,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 5 ,47.70832002299721
+1109,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 9 ,64.87643549050699
+1110,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,31.728421640997112
+1111,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,47.25086586250109
+1112,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,64.42396173300222
+1113,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,32.25971082050091
+1114,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,47.71083781299967
+1115,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,64.86733086049935
+1116,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,31.707908393502294
+1117,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.084230592503445
+1118,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,55.40884264700435
+1119,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.29042979949736
+1120,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.65726009500213
+1121,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,56.096007849497255
+1122,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,31.706851373499376
+1123,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,42.229272096505156
+1124,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,55.512284677002754
+1125,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,32.29636052249407
+1126,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.67447212099796
+1127,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,55.96492073150148
+1128,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,34.1490116260029
+1129,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,50.70801603550353
+1130,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,69.27036245449563
+1131,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,34.15269742449891
+1132,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,50.706529964503716
+1133,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,69.25137733400334
+1134,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,34.38234074199863
+1135,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,51.077883589496196
+1136,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,69.67754104050255
+1137,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,34.43451404949883
+1138,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,51.13846855450538
+1139,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,69.84049339499325
+1140,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,34.24745931499638
+1141,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,44.745728424000845
+1142,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,58.53617535599187
+1143,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,34.16871350749716
+1144,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,44.70109102599963
+1145,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,58.4767469369981
+1146,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,34.41216174750298
+1147,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,44.92858964249899
+1148,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,58.72424200799287
+1149,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,34.50431945550372
+1150,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,44.93477202849317
+1151,../x264/x264 --no-asm --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,58.66377043399552
+1152,../x264/x264 --no-asm --no-8x8dct --rc-lookahead 20 --ref 1 ,29.99418762750429
+1153,../x264/x264 --no-asm --no-8x8dct --rc-lookahead 20 --ref 5 ,42.4277781829951
+1154,../x264/x264 --no-asm --no-8x8dct --rc-lookahead 20 --ref 9 ,56.84123074150557
+1155,../x264/x264 --no-asm --no-8x8dct --rc-lookahead 40 --ref 1 ,30.717934309992415
+1156,../x264/x264 --no-asm --no-8x8dct --rc-lookahead 40 --ref 5 ,43.19159146400489
+1157,../x264/x264 --no-asm --no-8x8dct --rc-lookahead 40 --ref 9 ,57.514361655994435
+1158,../x264/x264 --no-asm --no-8x8dct --no-weightb --rc-lookahead 20 --ref 1 ,30.05486363399541
+1159,../x264/x264 --no-asm --no-8x8dct --no-weightb --rc-lookahead 20 --ref 5 ,42.399291647496284
+1160,../x264/x264 --no-asm --no-8x8dct --no-weightb --rc-lookahead 20 --ref 9 ,56.69179146150418
+1161,../x264/x264 --no-asm --no-8x8dct --no-weightb --rc-lookahead 40 --ref 1 ,30.659446374498657
+1162,../x264/x264 --no-asm --no-8x8dct --no-weightb --rc-lookahead 40 --ref 5 ,42.89795763749862
+1163,../x264/x264 --no-asm --no-8x8dct --no-weightb --rc-lookahead 40 --ref 9 ,57.075915267996606
+1164,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --rc-lookahead 20 --ref 1 ,30.067960753010993
+1165,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --rc-lookahead 20 --ref 5 ,38.1143858725045
+1166,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --rc-lookahead 20 --ref 9 ,49.32114570350677
+1167,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --rc-lookahead 40 --ref 1 ,30.716718467505416
+1168,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --rc-lookahead 40 --ref 5 ,38.62621532299818
+1169,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --rc-lookahead 40 --ref 9 ,49.84071040049457
+1170,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,30.0409530859979
+1171,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,37.96170300950325
+1172,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,49.12337966349878
+1173,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,30.589178089503548
+1174,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,38.50316778149863
+1175,../x264/x264 --no-asm --no-8x8dct --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,49.63728804849961
+1176,../x264/x264 --no-asm --no-8x8dct --no-mbtree --rc-lookahead 20 --ref 1 ,32.230567377991974
+1177,../x264/x264 --no-asm --no-8x8dct --no-mbtree --rc-lookahead 20 --ref 5 ,45.992694097498315
+1178,../x264/x264 --no-asm --no-8x8dct --no-mbtree --rc-lookahead 20 --ref 9 ,62.04329201950168
+1179,../x264/x264 --no-asm --no-8x8dct --no-mbtree --rc-lookahead 40 --ref 1 ,32.24024353450659
+1180,../x264/x264 --no-asm --no-8x8dct --no-mbtree --rc-lookahead 40 --ref 5 ,46.04805417999887
+1181,../x264/x264 --no-asm --no-8x8dct --no-mbtree --rc-lookahead 40 --ref 9 ,62.01220728649787
+1182,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,32.422137648994976
+1183,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,46.259684586999356
+1184,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,62.17149750149838
+1185,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,32.4405259414998
+1186,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,46.305604127999686
+1187,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,62.19798730399634
+1188,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,32.236846974999935
+1189,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,40.62270652849111
+1190,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,52.5038427959953
+1191,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.26221914999769
+1192,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,40.60480045250006
+1193,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,52.51739657249709
+1194,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,32.43803632000345
+1195,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,40.727760164991196
+1196,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,52.523320383501414
+1197,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,32.383868185999745
+1198,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,40.72238286949869
+1199,../x264/x264 --no-asm --no-8x8dct --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,52.541965147000155
+1200,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --rc-lookahead 20 --ref 1 ,30.387677808503213
+1201,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --rc-lookahead 20 --ref 5 ,45.013032618997386
+1202,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --rc-lookahead 20 --ref 9 ,61.639329598001495
+1203,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --rc-lookahead 40 --ref 1 ,31.007057741000608
+1204,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --rc-lookahead 40 --ref 5 ,45.573085028503556
+1205,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --rc-lookahead 40 --ref 9 ,62.149707339005545
+1206,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,30.297553874501318
+1207,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,45.06426873550663
+1208,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,61.8209117055012
+1209,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,30.931514892494306
+1210,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,45.66509141399729
+1211,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,62.366669256502064
+1212,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,30.377082120001432
+1213,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,40.504015070502646
+1214,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,53.9185886855048
+1215,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,30.99472719449841
+1216,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,41.12456952549837
+1217,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,54.46291613250651
+1218,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,30.36852756099688
+1219,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,40.517958152500796
+1220,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,53.91146427750209
+1221,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,30.94042053600424
+1222,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,41.10684555250191
+1223,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,54.323943945499195
+1224,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,32.531373845005874
+1225,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,48.297983971504436
+1226,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,66.33273000850022
+1227,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,32.463001955002255
+1228,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,48.14504961200146
+1229,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,66.0879653824959
+1230,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,32.67063993600459
+1231,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,48.4798889904996
+1232,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,66.61153944200487
+1233,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,32.743525056008366
+1234,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,48.62763387900486
+1235,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,66.63688600849855
+1236,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,32.57425519949902
+1237,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.78026880000107
+1238,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,56.596860354504315
+1239,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.614121371501824
+1240,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.922759323999344
+1241,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,56.75211013900116
+1242,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,32.835109131003264
+1243,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,43.18669649500225
+1244,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,57.05547592900257
+1245,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,32.74102221000794
+1246,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.95151863399224
+1247,../x264/x264 --no-asm --no-8x8dct --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,56.745925647999684
+1248,../x264/x264 --no-asm --no-8x8dct --no-deblock --rc-lookahead 20 --ref 1 ,30.172839740494965
+1249,../x264/x264 --no-asm --no-8x8dct --no-deblock --rc-lookahead 20 --ref 5 ,42.681914147004136
+1250,../x264/x264 --no-asm --no-8x8dct --no-deblock --rc-lookahead 20 --ref 9 ,57.207332107500406
+1251,../x264/x264 --no-asm --no-8x8dct --no-deblock --rc-lookahead 40 --ref 1 ,30.790079741003865
+1252,../x264/x264 --no-asm --no-8x8dct --no-deblock --rc-lookahead 40 --ref 5 ,43.272314969988656
+1253,../x264/x264 --no-asm --no-8x8dct --no-deblock --rc-lookahead 40 --ref 9 ,57.8305658114914
+1254,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-weightb --rc-lookahead 20 --ref 1 ,30.139511654502712
+1255,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-weightb --rc-lookahead 20 --ref 5 ,42.62855820850382
+1256,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-weightb --rc-lookahead 20 --ref 9 ,57.012159526006144
+1257,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-weightb --rc-lookahead 40 --ref 1 ,30.754950334994646
+1258,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-weightb --rc-lookahead 40 --ref 5 ,43.207457413001976
+1259,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-weightb --rc-lookahead 40 --ref 9 ,57.616789319508825
+1260,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 1 ,30.13042025049799
+1261,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 5 ,38.12048030250298
+1262,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 9 ,49.278582011502294
+1263,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 1 ,30.772820124504506
+1264,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 5 ,38.80831503049558
+1265,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 9 ,50.01274431900674
+1266,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,30.256503302502097
+1267,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,38.16880994600069
+1268,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,49.33190698050021
+1269,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,30.82037491400115
+1270,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,38.61742746500386
+1271,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,49.64943813600257
+1272,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 20 --ref 1 ,32.26811779499985
+1273,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 20 --ref 5 ,46.222425554995425
+1274,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 20 --ref 9 ,62.371393742498185
+1275,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 40 --ref 1 ,32.310101335497166
+1276,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 40 --ref 5 ,46.270590539992554
+1277,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --rc-lookahead 40 --ref 9 ,62.5003753714991
+1278,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,32.48004986750311
+1279,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,46.5047893689989
+1280,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,62.54079417500179
+1281,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,32.45810746299685
+1282,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,46.552134603502054
+1283,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,62.59374832199683
+1284,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,32.33806714799721
+1285,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,40.69449111299764
+1286,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,52.51072088399087
+1287,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.32644473000255
+1288,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,40.67792710350477
+1289,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,52.52413039450039
+1290,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,32.55063538149261
+1291,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,40.86712277199695
+1292,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,52.58563229550782
+1293,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,32.55678900849307
+1294,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,40.898918236998725
+1295,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,52.62259917499614
+1296,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 1 ,30.533232975998544
+1297,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 5 ,45.357586898498994
+1298,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 9 ,62.13680069249676
+1299,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 1 ,31.172320561498054
+1300,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 5 ,45.85004102449602
+1301,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 9 ,62.71177228500164
+1302,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,30.566903254999488
+1303,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,45.44860771549429
+1304,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,62.278896136987896
+1305,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,31.10608429349668
+1306,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,46.003031618500245
+1307,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,62.6171208875021
+1308,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,30.522676799999317
+1309,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,40.696327704994474
+1310,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,54.04333395649883
+1311,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,31.227931266002997
+1312,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,41.17216194199136
+1313,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,54.5720062065011
+1314,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,30.519323640997754
+1315,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,40.715217231998395
+1316,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,54.06373486249504
+1317,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,31.083860149999964
+1318,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,41.1975076854942
+1319,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,54.49604392149922
+1320,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,32.58016066549317
+1321,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,48.56035811750189
+1322,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,66.75198049799656
+1323,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,32.58960675949493
+1324,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,48.493397485995956
+1325,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,66.77545398050279
+1326,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,32.829113676503766
+1327,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,48.92767389299843
+1328,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,67.09420961949218
+1329,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,32.852718759495474
+1330,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,48.88777461850259
+1331,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,67.05244913249044
+1332,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,32.56103652250022
+1333,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.83453433949762
+1334,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,56.61992071699933
+1335,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,32.61529866599449
+1336,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.82989870599704
+1337,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,56.57941169699916
+1338,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,32.796989126494736
+1339,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,43.05850469999132
+1340,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,56.88628120800422
+1341,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,32.890393604502606
+1342,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,43.08703759399941
+1343,../x264/x264 --no-asm --no-8x8dct --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,56.86575569650449
+1344,../x264/x264 --no-asm --no-8x8dct --no-cabac --rc-lookahead 20 --ref 1 ,29.31684741150093
+1345,../x264/x264 --no-asm --no-8x8dct --no-cabac --rc-lookahead 20 --ref 5 ,41.93606405749597
+1346,../x264/x264 --no-asm --no-8x8dct --no-cabac --rc-lookahead 20 --ref 9 ,56.355563782497484
+1347,../x264/x264 --no-asm --no-8x8dct --no-cabac --rc-lookahead 40 --ref 1 ,29.97534083750361
+1348,../x264/x264 --no-asm --no-8x8dct --no-cabac --rc-lookahead 40 --ref 5 ,42.492283453495475
+1349,../x264/x264 --no-asm --no-8x8dct --no-cabac --rc-lookahead 40 --ref 9 ,56.90992380450189
+1350,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-weightb --rc-lookahead 20 --ref 1 ,29.232006712998555
+1351,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-weightb --rc-lookahead 20 --ref 5 ,41.93244933099777
+1352,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-weightb --rc-lookahead 20 --ref 9 ,56.18723851649702
+1353,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-weightb --rc-lookahead 40 --ref 1 ,29.8370491914975
+1354,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-weightb --rc-lookahead 40 --ref 5 ,42.441296717501245
+1355,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-weightb --rc-lookahead 40 --ref 9 ,56.70198794150201
+1356,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 1 ,29.318614017494838
+1357,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 5 ,37.6096697785033
+1358,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 20 --ref 9 ,48.84680278299493
+1359,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 1 ,29.940786321501946
+1360,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 5 ,38.23705359599262
+1361,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --rc-lookahead 40 --ref 9 ,49.416718281499925
+1362,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,29.28820960399753
+1363,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,37.54060603948892
+1364,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,48.50415988599707
+1365,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,29.815300996997394
+1366,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,38.00118269548693
+1367,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,49.073241560996394
+1368,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 20 --ref 1 ,31.486003733502002
+1369,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 20 --ref 5 ,45.43478896548913
+1370,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 20 --ref 9 ,61.40457943599904
+1371,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 40 --ref 1 ,31.539447994495276
+1372,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 40 --ref 5 ,45.50191968800209
+1373,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --rc-lookahead 40 --ref 9 ,61.386013433511835
+1374,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,31.650065148511203
+1375,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,45.690082490997156
+1376,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,61.53866236949398
+1377,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,31.60514678648906
+1378,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,45.73556306651153
+1379,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,61.58117341400066
+1380,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,31.43630512499658
+1381,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,40.09196350449929
+1382,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,51.92410060700786
+1383,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,31.4812488599855
+1384,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,40.13485880600638
+1385,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,51.93845956149744
+1386,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,31.606091280002147
+1387,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,40.22501332400134
+1388,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,51.9555101605074
+1389,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,31.638557255500928
+1390,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,40.23951961399871
+1391,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,51.953786558500724
+1392,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 1 ,29.48434941850428
+1393,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 5 ,44.38592444699316
+1394,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 20 --ref 9 ,61.03905229050724
+1395,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 1 ,30.17056622300879
+1396,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 5 ,45.02611898150644
+1397,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --rc-lookahead 40 --ref 9 ,61.702324713012786
+1398,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,29.51209630649828
+1399,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,44.51917287749529
+1400,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,61.14022684599331
+1401,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,30.112001023997436
+1402,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,45.07671821799886
+1403,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,61.79207553349261
+1404,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,29.481358375007403
+1405,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,40.02124063699739
+1406,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,53.298750181507785
+1407,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,30.178988309489796
+1408,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,40.573103339993395
+1409,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,53.86561613000231
+1410,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,29.558445953996852
+1411,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,40.02754113050469
+1412,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,53.40251587799867
+1413,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,30.123196355008986
+1414,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,40.499703274981584
+1415,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,53.80542947349022
+1416,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,31.729533319507027
+1417,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,47.647584566497244
+1418,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,65.62797545202193
+1419,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,31.707480141500128
+1420,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,47.675113314486225
+1421,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,65.73357531199872
+1422,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,31.9140896370227
+1423,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,48.00572116849071
+1424,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,65.97957688799943
+1425,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,31.87349966650072
+1426,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,47.94759895399329
+1427,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,65.95748848900257
+1428,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,31.735328362497967
+1429,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.18283607749618
+1430,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,56.012244135985384
+1431,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,31.726136351484456
+1432,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.21090005700535
+1433,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,56.004071082992596
+1434,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,31.853388842995628
+1435,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,42.38520043650351
+1436,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,56.21870474050229
+1437,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,31.899105249001877
+1438,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.379631097996025
+1439,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,56.13922582549276
+1440,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --rc-lookahead 20 --ref 1 ,29.370840983014205
+1441,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --rc-lookahead 20 --ref 5 ,42.07316705748963
+1442,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --rc-lookahead 20 --ref 9 ,56.562693594998564
+1443,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --rc-lookahead 40 --ref 1 ,30.04138898551173
+1444,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --rc-lookahead 40 --ref 5 ,42.691956237496925
+1445,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --rc-lookahead 40 --ref 9 ,57.18133063700225
+1446,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 1 ,29.33941130749008
+1447,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 5 ,42.018863805002184
+1448,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 20 --ref 9 ,56.45789989150944
+1449,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 1 ,30.021252130987705
+1450,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 5 ,42.649218169011874
+1451,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-weightb --rc-lookahead 40 --ref 9 ,56.977287775996956
+1452,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 1 ,29.43215950949525
+1453,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 5 ,37.67724883399205
+1454,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 20 --ref 9 ,48.88993858250615
+1455,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 1 ,30.028965770005016
+1456,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 5 ,38.26859844548744
+1457,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --rc-lookahead 40 --ref 9 ,49.50277486399864
+1458,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,29.384706307493616
+1459,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,37.64549067050393
+1460,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,48.717988131495076
+1461,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,29.99388362299942
+1462,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,38.15670468201279
+1463,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,49.21826003151364
+1464,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 1 ,31.61587925099593
+1465,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 5 ,45.76939430649509
+1466,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 20 --ref 9 ,61.857355789485155
+1467,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 1 ,31.5862375854922
+1468,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 5 ,45.71220562449889
+1469,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --rc-lookahead 40 --ref 9 ,61.87406962599198
+1470,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,31.782608074499876
+1471,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,46.063838767513516
+1472,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,62.117811116491794
+1473,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,31.74590472500131
+1474,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,46.0374468969967
+1475,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,62.069801812496735
+1476,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,31.63898964150576
+1477,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,40.24273001500114
+1478,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,52.05452878650976
+1479,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,31.61681561099249
+1480,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,40.20602978448733
+1481,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,52.11116375400161
+1482,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,31.76224050950259
+1483,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,40.37178484999458
+1484,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,52.113708382996265
+1485,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,31.757498762497562
+1486,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,40.349891644509626
+1487,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,52.13542284350842
+1488,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 1 ,29.688747534004506
+1489,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 5 ,44.73943219249486
+1490,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 20 --ref 9 ,61.56115519249579
+1491,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 1 ,30.40200420450128
+1492,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 5 ,45.28804729600961
+1493,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --rc-lookahead 40 --ref 9 ,62.04832742550934
+1494,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 1 ,29.641401570508606
+1495,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 5 ,44.860837855012505
+1496,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 20 --ref 9 ,61.662035379500594
+1497,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 1 ,30.311535545508377
+1498,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 5 ,45.344716097504715
+1499,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-weightb --rc-lookahead 40 --ref 9 ,62.03277224948397
+1500,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 1 ,29.743293309002183
+1501,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 5 ,40.096666350989835
+1502,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 20 --ref 9 ,53.477594789510476
+1503,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 1 ,30.38441174000036
+1504,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 5 ,40.653004664491164
+1505,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --rc-lookahead 40 --ref 9 ,53.95416687251418
+1506,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,29.63174234300095
+1507,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,40.192436723504215
+1508,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,53.60599696550344
+1509,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,30.69365873350762
+1510,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,41.27680711800349
+1511,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,54.36218693549745
+1512,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 1 ,31.745578381000087
+1513,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 5 ,47.88256909849588
+1514,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 20 --ref 9 ,65.92852870549541
+1515,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 1 ,31.753269592518336
+1516,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 5 ,47.88806952799496
+1517,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --rc-lookahead 40 --ref 9 ,65.95860514001106
+1518,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 1 ,31.931339667498833
+1519,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 5 ,48.279702715502935
+1520,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 20 --ref 9 ,66.31334950150631
+1521,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 1 ,31.969439999491442
+1522,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 5 ,48.32574160200602
+1523,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-weightb --rc-lookahead 40 --ref 9 ,66.32144763651013
+1524,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 1 ,31.74977884249529
+1525,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 5 ,42.18873163948592
+1526,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 20 --ref 9 ,55.905525300011504
+1527,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 1 ,31.75035317700531
+1528,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 5 ,42.21915247901052
+1529,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --rc-lookahead 40 --ref 9 ,56.01627701250254
+1530,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 1 ,31.971645178986364
+1531,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 5 ,42.47165796800982
+1532,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 20 --ref 9 ,56.20260141999461
+1533,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 1 ,31.977066722509335
+1534,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 5 ,42.47808676348359
+1535,../x264/x264 --no-asm --no-8x8dct --no-cabac --no-deblock --no-fast-pskip --no-mbtree --no-mixed-refs --no-weightb --rc-lookahead 40 --ref 9 ,56.23449797950161

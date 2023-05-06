@@ -1,0 +1,256 @@
+,config,time
+0,--jump-threading ,2.8471879959106445
+1,--inline ,2.801386594772339
+2,--dce ,2.8428356647491455
+3,--loop-vectorize ,3.4902210235595703
+4,--globalopt ,2.26745343208313
+5,--float2int ,2.7396631240844727
+6,--aa ,2.5380330085754395
+7,--objc-arc ,5.364839315414429
+8,--jump-threading --inline ,2.5613598823547363
+9,--jump-threading --dce ,2.858563184738159
+10,--jump-threading --loop-vectorize ,3.430755853652954
+11,--jump-threading --globalopt ,1.7891383171081543
+12,--jump-threading --float2int ,2.1099941730499268
+13,--jump-threading --aa ,1.810513973236084
+14,--jump-threading --objc-arc ,1.5843584537506104
+15,--inline --dce ,1.6204769611358643
+16,--inline --loop-vectorize ,2.300267219543457
+17,--inline --globalopt ,1.718813180923462
+18,--inline --float2int ,1.5365493297576904
+19,--inline --aa ,1.4962787628173828
+20,--inline --objc-arc ,1.5122721195220947
+21,--dce --loop-vectorize ,1.9719455242156982
+22,--dce --globalopt ,1.3065075874328613
+23,--dce --float2int ,1.4228620529174805
+24,--dce --aa ,1.3636119365692139
+25,--dce --objc-arc ,1.402738094329834
+26,--loop-vectorize --globalopt ,1.985903263092041
+27,--loop-vectorize --float2int ,2.0863595008850098
+28,--loop-vectorize --aa ,2.1070449352264404
+29,--loop-vectorize --objc-arc ,2.1106138229370117
+30,--globalopt --float2int ,1.3994665145874023
+31,--globalopt --aa ,1.467700719833374
+32,--globalopt --objc-arc ,1.4720282554626465
+33,--float2int --aa ,1.4994208812713623
+34,--float2int --objc-arc ,1.4937744140625
+35,--aa --objc-arc ,1.5245208740234375
+36,--jump-threading --inline --dce ,1.6902318000793457
+37,--jump-threading --inline --loop-vectorize ,2.3488290309906006
+38,--jump-threading --inline --globalopt ,1.666825771331787
+39,--jump-threading --inline --float2int ,1.6762351989746094
+40,--jump-threading --inline --aa ,1.6818068027496338
+41,--jump-threading --inline --objc-arc ,1.6340835094451904
+42,--jump-threading --dce --loop-vectorize ,2.2330358028411865
+43,--jump-threading --dce --globalopt ,1.6002395153045654
+44,--jump-threading --dce --float2int ,1.655198097229004
+45,--jump-threading --dce --aa ,1.6227571964263916
+46,--jump-threading --dce --objc-arc ,1.6224360466003418
+47,--jump-threading --loop-vectorize --globalopt ,2.215975761413574
+48,--jump-threading --loop-vectorize --float2int ,2.3007240295410156
+49,--jump-threading --loop-vectorize --aa ,2.298323631286621
+50,--jump-threading --loop-vectorize --objc-arc ,2.2937896251678467
+51,--jump-threading --globalopt --float2int ,1.6700074672698975
+52,--jump-threading --globalopt --aa ,1.6758670806884766
+53,--jump-threading --globalopt --objc-arc ,1.664506435394287
+54,--jump-threading --float2int --aa ,1.6724905967712402
+55,--jump-threading --float2int --objc-arc ,1.6709487438201904
+56,--jump-threading --aa --objc-arc ,1.645517349243164
+57,--inline --dce --loop-vectorize ,2.2356491088867188
+58,--inline --dce --globalopt ,1.5204086303710938
+59,--inline --dce --float2int ,1.5622355937957764
+60,--inline --dce --aa ,1.5676813125610352
+61,--inline --dce --objc-arc ,1.5679919719696045
+62,--inline --loop-vectorize --globalopt ,2.1933159828186035
+63,--inline --loop-vectorize --float2int ,2.214569330215454
+64,--inline --loop-vectorize --aa ,2.2398507595062256
+65,--inline --loop-vectorize --objc-arc ,2.2375171184539795
+66,--inline --globalopt --float2int ,1.5676968097686768
+67,--inline --globalopt --aa ,1.5723485946655273
+68,--inline --globalopt --objc-arc ,1.5775244235992432
+69,--inline --float2int --aa ,1.599865436553955
+70,--inline --float2int --objc-arc ,1.5819659233093262
+71,--inline --aa --objc-arc ,1.6001238822937012
+72,--dce --loop-vectorize --globalopt ,2.165726900100708
+73,--dce --loop-vectorize --float2int ,2.2055957317352295
+74,--dce --loop-vectorize --aa ,2.193492889404297
+75,--dce --loop-vectorize --objc-arc ,2.1820907592773438
+76,--dce --globalopt --float2int ,1.5075678825378418
+77,--dce --globalopt --aa ,1.492426872253418
+78,--dce --globalopt --objc-arc ,1.4901533126831055
+79,--dce --float2int --aa ,1.520007848739624
+80,--dce --float2int --objc-arc ,1.5218613147735596
+81,--dce --aa --objc-arc ,1.5057804584503174
+82,--loop-vectorize --globalopt --float2int ,2.1449692249298096
+83,--loop-vectorize --globalopt --aa ,2.1124703884124756
+84,--loop-vectorize --globalopt --objc-arc ,2.103287935256958
+85,--loop-vectorize --float2int --aa ,2.1251964569091797
+86,--loop-vectorize --float2int --objc-arc ,2.1683578491210938
+87,--loop-vectorize --aa --objc-arc ,2.143976926803589
+88,--globalopt --float2int --aa ,1.4825022220611572
+89,--globalopt --float2int --objc-arc ,1.4866642951965332
+90,--globalopt --aa --objc-arc ,1.4732582569122314
+91,--float2int --aa --objc-arc ,1.44386625289917
+92,--jump-threading --inline --dce --loop-vectorize ,2.232426166534424
+93,--jump-threading --inline --dce --globalopt ,1.6270647048950195
+94,--jump-threading --inline --dce --float2int ,1.686363697052002
+95,--jump-threading --inline --dce --aa ,1.6634275913238525
+96,--jump-threading --inline --dce --objc-arc ,1.6472578048706055
+97,--jump-threading --inline --loop-vectorize --globalopt ,2.2140650749206543
+98,--jump-threading --inline --loop-vectorize --float2int ,2.2353627681732178
+99,--jump-threading --inline --loop-vectorize --aa ,2.2100589275360107
+100,--jump-threading --inline --loop-vectorize --objc-arc ,2.2615468502044678
+101,--jump-threading --inline --globalopt --float2int ,1.6313884258270264
+102,--jump-threading --inline --globalopt --aa ,1.6115086078643799
+103,--jump-threading --inline --globalopt --objc-arc ,1.62394118309021
+104,--jump-threading --inline --float2int --aa ,1.681062936782837
+105,--jump-threading --inline --float2int --objc-arc ,1.6734092235565186
+106,--jump-threading --inline --aa --objc-arc ,1.649047613143921
+107,--jump-threading --dce --loop-vectorize --globalopt ,2.17360520362854
+108,--jump-threading --dce --loop-vectorize --float2int ,2.1877548694610596
+109,--jump-threading --dce --loop-vectorize --aa ,2.200286865234375
+110,--jump-threading --dce --loop-vectorize --objc-arc ,2.2225115299224854
+111,--jump-threading --dce --globalopt --float2int ,1.6199774742126465
+112,--jump-threading --dce --globalopt --aa ,1.5884284973144531
+113,--jump-threading --dce --globalopt --objc-arc ,1.6038103103637695
+114,--jump-threading --dce --float2int --aa ,1.645193338394165
+115,--jump-threading --dce --float2int --objc-arc ,1.64170241355896
+116,--jump-threading --dce --aa --objc-arc ,1.6441600322723389
+117,--jump-threading --loop-vectorize --globalopt --float2int ,2.2638704776763916
+118,--jump-threading --loop-vectorize --globalopt --aa ,2.2780165672302246
+119,--jump-threading --loop-vectorize --globalopt --objc-arc ,2.290654182434082
+120,--jump-threading --loop-vectorize --float2int --aa ,2.2905001640319824
+121,--jump-threading --loop-vectorize --float2int --objc-arc ,2.300917387008667
+122,--jump-threading --loop-vectorize --aa --objc-arc ,2.3002679347991943
+123,--jump-threading --globalopt --float2int --aa ,1.6482794284820557
+124,--jump-threading --globalopt --float2int --objc-arc ,1.6403865814208984
+125,--jump-threading --globalopt --aa --objc-arc ,1.6387109756469727
+126,--jump-threading --float2int --aa --objc-arc ,1.6426873207092285
+127,--inline --dce --loop-vectorize --globalopt ,2.1919023990631104
+128,--inline --dce --loop-vectorize --float2int ,2.2245068550109863
+129,--inline --dce --loop-vectorize --aa ,2.1952054500579834
+130,--inline --dce --loop-vectorize --objc-arc ,2.271526336669922
+131,--inline --dce --globalopt --float2int ,1.598297357559204
+132,--inline --dce --globalopt --aa ,1.6064918041229248
+133,--inline --dce --globalopt --objc-arc ,1.6102030277252197
+134,--inline --dce --float2int --aa ,1.6212141513824463
+135,--inline --dce --float2int --objc-arc ,1.5900228023529053
+136,--inline --dce --aa --objc-arc ,1.5770525932312012
+137,--inline --loop-vectorize --globalopt --float2int ,2.128220319747925
+138,--inline --loop-vectorize --globalopt --aa ,2.087949514389038
+139,--inline --loop-vectorize --globalopt --objc-arc ,2.1032731533050537
+140,--inline --loop-vectorize --float2int --aa ,2.1478500366210938
+141,--inline --loop-vectorize --float2int --objc-arc ,2.1784591674804688
+142,--inline --loop-vectorize --aa --objc-arc ,2.1247336864471436
+143,--inline --globalopt --float2int --aa ,1.4588837623596191
+144,--inline --globalopt --float2int --objc-arc ,1.4585249423980713
+145,--inline --globalopt --aa --objc-arc ,1.504044771194458
+146,--inline --float2int --aa --objc-arc ,1.5439484119415283
+147,--dce --loop-vectorize --globalopt --float2int ,2.1099319458007812
+148,--dce --loop-vectorize --globalopt --aa ,2.149369478225708
+149,--dce --loop-vectorize --globalopt --objc-arc ,2.098475456237793
+150,--dce --loop-vectorize --float2int --aa ,2.140493154525757
+151,--dce --loop-vectorize --float2int --objc-arc ,2.1452078819274902
+152,--dce --loop-vectorize --aa --objc-arc ,2.1565544605255127
+153,--dce --globalopt --float2int --aa ,1.5179336071014404
+154,--dce --globalopt --float2int --objc-arc ,1.55375337600708
+155,--dce --globalopt --aa --objc-arc ,1.5361268520355225
+156,--dce --float2int --aa --objc-arc ,1.557926893234253
+157,--loop-vectorize --globalopt --float2int --aa ,2.2019166946411133
+158,--loop-vectorize --globalopt --float2int --objc-arc ,2.1875100135803223
+159,--loop-vectorize --globalopt --aa --objc-arc ,2.1809628009796143
+160,--loop-vectorize --float2int --aa --objc-arc ,2.173642873764038
+161,--globalopt --float2int --aa --objc-arc ,1.5172200202941895
+162,--jump-threading --inline --dce --loop-vectorize --globalopt ,2.2644705772399902
+163,--jump-threading --inline --dce --loop-vectorize --float2int ,2.309828758239746
+164,--jump-threading --inline --dce --loop-vectorize --aa ,2.301021099090576
+165,--jump-threading --inline --dce --loop-vectorize --objc-arc ,2.376129388809204
+166,--jump-threading --inline --dce --globalopt --float2int ,1.7201306819915771
+167,--jump-threading --inline --dce --globalopt --aa ,1.7081022262573242
+168,--jump-threading --inline --dce --globalopt --objc-arc ,1.7301042079925537
+169,--jump-threading --inline --dce --float2int --aa ,1.7416307926177979
+170,--jump-threading --inline --dce --float2int --objc-arc ,1.734832763671875
+171,--jump-threading --inline --dce --aa --objc-arc ,1.7252449989318848
+172,--jump-threading --inline --loop-vectorize --globalopt --float2int ,2.354142665863037
+173,--jump-threading --inline --loop-vectorize --globalopt --aa ,2.301567554473877
+174,--jump-threading --inline --loop-vectorize --globalopt --objc-arc ,2.237581491470337
+175,--jump-threading --inline --loop-vectorize --float2int --aa ,2.3147706985473633
+176,--jump-threading --inline --loop-vectorize --float2int --objc-arc ,2.3131699562072754
+177,--jump-threading --inline --loop-vectorize --aa --objc-arc ,2.3311827182769775
+178,--jump-threading --inline --globalopt --float2int --aa ,1.6578929424285889
+179,--jump-threading --inline --globalopt --float2int --objc-arc ,1.6495611667633057
+180,--jump-threading --inline --globalopt --aa --objc-arc ,1.637930154800415
+181,--jump-threading --inline --float2int --aa --objc-arc ,1.6583991050720215
+182,--jump-threading --dce --loop-vectorize --globalopt --float2int ,2.223997116088867
+183,--jump-threading --dce --loop-vectorize --globalopt --aa ,2.207834243774414
+184,--jump-threading --dce --loop-vectorize --globalopt --objc-arc ,2.2361154556274414
+185,--jump-threading --dce --loop-vectorize --float2int --aa ,2.2350401878356934
+186,--jump-threading --dce --loop-vectorize --float2int --objc-arc ,2.243694543838501
+187,--jump-threading --dce --loop-vectorize --aa --objc-arc ,2.2206976413726807
+188,--jump-threading --dce --globalopt --float2int --aa ,1.6116135120391846
+189,--jump-threading --dce --globalopt --float2int --objc-arc ,1.6240670680999756
+190,--jump-threading --dce --globalopt --aa --objc-arc ,1.6025359630584717
+191,--jump-threading --dce --float2int --aa --objc-arc ,1.6209580898284912
+192,--jump-threading --loop-vectorize --globalopt --float2int --aa ,2.2308194637298584
+193,--jump-threading --loop-vectorize --globalopt --float2int --objc-arc ,2.2499778270721436
+194,--jump-threading --loop-vectorize --globalopt --aa --objc-arc ,2.2376537322998047
+195,--jump-threading --loop-vectorize --float2int --aa --objc-arc ,2.2717151641845703
+196,--jump-threading --globalopt --float2int --aa --objc-arc ,1.6063148975372314
+197,--inline --dce --loop-vectorize --globalopt --float2int ,2.1819887161254883
+198,--inline --dce --loop-vectorize --globalopt --aa ,2.1767306327819824
+199,--inline --dce --loop-vectorize --globalopt --objc-arc ,2.121931791305542
+200,--inline --dce --loop-vectorize --float2int --aa ,2.1778781414031982
+201,--inline --dce --loop-vectorize --float2int --objc-arc ,2.1341912746429443
+202,--inline --dce --loop-vectorize --aa --objc-arc ,2.115107774734497
+203,--inline --dce --globalopt --float2int --aa ,1.5043303966522217
+204,--inline --dce --globalopt --float2int --objc-arc ,1.549694538116455
+205,--inline --dce --globalopt --aa --objc-arc ,1.563788652420044
+206,--inline --dce --float2int --aa --objc-arc ,1.5554792881011963
+207,--inline --loop-vectorize --globalopt --float2int --aa ,2.1338741779327393
+208,--inline --loop-vectorize --globalopt --float2int --objc-arc ,2.1537013053894043
+209,--inline --loop-vectorize --globalopt --aa --objc-arc ,2.151947021484375
+210,--inline --loop-vectorize --float2int --aa --objc-arc ,2.172241687774658
+211,--inline --globalopt --float2int --aa --objc-arc ,1.5205626487731934
+212,--dce --loop-vectorize --globalopt --float2int --aa ,2.0962531566619873
+213,--dce --loop-vectorize --globalopt --float2int --objc-arc ,2.1743977069854736
+214,--dce --loop-vectorize --globalopt --aa --objc-arc ,2.1115658283233643
+215,--dce --loop-vectorize --float2int --aa --objc-arc ,2.0889594554901123
+216,--dce --globalopt --float2int --aa --objc-arc ,1.3675544261932373
+217,--loop-vectorize --globalopt --float2int --aa --objc-arc ,2.0089919567108154
+218,--jump-threading --inline --dce --loop-vectorize --globalopt --float2int ,2.157177209854126
+219,--jump-threading --inline --dce --loop-vectorize --globalopt --aa ,2.1864516735076904
+220,--jump-threading --inline --dce --loop-vectorize --globalopt --objc-arc ,2.2591793537139893
+221,--jump-threading --inline --dce --loop-vectorize --float2int --aa ,2.3388774394989014
+222,--jump-threading --inline --dce --loop-vectorize --float2int --objc-arc ,2.3132340908050537
+223,--jump-threading --inline --dce --loop-vectorize --aa --objc-arc ,2.4498214721679688
+224,--jump-threading --inline --dce --globalopt --float2int --aa ,1.6604104042053223
+225,--jump-threading --inline --dce --globalopt --float2int --objc-arc ,1.6442785263061523
+226,--jump-threading --inline --dce --globalopt --aa --objc-arc ,1.690474510192871
+227,--jump-threading --inline --dce --float2int --aa --objc-arc ,1.647721529006958
+228,--jump-threading --inline --loop-vectorize --globalopt --float2int --aa ,2.2742040157318115
+229,--jump-threading --inline --loop-vectorize --globalopt --float2int --objc-arc ,2.314453363418579
+230,--jump-threading --inline --loop-vectorize --globalopt --aa --objc-arc ,2.2970974445343018
+231,--jump-threading --inline --loop-vectorize --float2int --aa --objc-arc ,2.3110013008117676
+232,--jump-threading --inline --globalopt --float2int --aa --objc-arc ,1.6242883205413818
+233,--jump-threading --dce --loop-vectorize --globalopt --float2int --aa ,2.2092857360839844
+234,--jump-threading --dce --loop-vectorize --globalopt --float2int --objc-arc ,2.2600111961364746
+235,--jump-threading --dce --loop-vectorize --globalopt --aa --objc-arc ,2.2692453861236572
+236,--jump-threading --dce --loop-vectorize --float2int --aa --objc-arc ,2.2326321601867676
+237,--jump-threading --dce --globalopt --float2int --aa --objc-arc ,1.5855088233947754
+238,--jump-threading --loop-vectorize --globalopt --float2int --aa --objc-arc ,2.2179572582244873
+239,--inline --dce --loop-vectorize --globalopt --float2int --aa ,2.1881842613220215
+240,--inline --dce --loop-vectorize --globalopt --float2int --objc-arc ,2.1411666870117188
+241,--inline --dce --loop-vectorize --globalopt --aa --objc-arc ,2.182788610458374
+242,--inline --dce --loop-vectorize --float2int --aa --objc-arc ,2.2186684608459473
+243,--inline --dce --globalopt --float2int --aa --objc-arc ,1.7565844058990479
+244,--inline --loop-vectorize --globalopt --float2int --aa --objc-arc ,2.263437271118164
+245,--dce --loop-vectorize --globalopt --float2int --aa --objc-arc ,2.19034481048584
+246,--jump-threading --inline --dce --loop-vectorize --globalopt --float2int --aa ,2.269268274307251
+247,--jump-threading --inline --dce --loop-vectorize --globalopt --float2int --objc-arc ,2.2626357078552246
+248,--jump-threading --inline --dce --loop-vectorize --globalopt --aa --objc-arc ,2.2663185596466064
+249,--jump-threading --inline --dce --loop-vectorize --float2int --aa --objc-arc ,2.259387493133545
+250,--jump-threading --inline --dce --globalopt --float2int --aa --objc-arc ,1.5818262100219727
+251,--jump-threading --inline --loop-vectorize --globalopt --float2int --aa --objc-arc ,2.176609516143799
+252,--jump-threading --dce --loop-vectorize --globalopt --float2int --aa --objc-arc ,2.1825637817382812
+253,--inline --dce --loop-vectorize --globalopt --float2int --aa --objc-arc ,2.1685845851898193
+254,--jump-threading --inline --dce --loop-vectorize --globalopt --float2int --aa --objc-arc ,2.239607810974121

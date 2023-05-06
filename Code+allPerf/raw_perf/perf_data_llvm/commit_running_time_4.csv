@@ -1,0 +1,512 @@
+,config,time,commit
+0,--gvn ,3.4509000000000003,llvmorg-10.0.0-rc4
+1,--instcombine ,3.958100000000001,llvmorg-10.0.0-rc4
+2,--inline ,0.8889000000000001,llvmorg-10.0.0-rc4
+3,--jump-threading ,1.1584000000000005,llvmorg-10.0.0-rc4
+4,--simplifycfg ,1.0296,llvmorg-10.0.0-rc4
+5,--sccp ,1.1352999999999998,llvmorg-10.0.0-rc4
+6,--ipsccp ,1.3210999999999997,llvmorg-10.0.0-rc4
+7,--licm ,1.6614999999999998,llvmorg-10.0.0-rc4
+8,--iv-users ,1.7450999999999997,llvmorg-10.0.0-rc4
+9,--gvn --instcombine ,5.204199999999999,llvmorg-10.0.0-rc4
+10,--gvn --inline ,3.4605000000000006,llvmorg-10.0.0-rc4
+11,--gvn --jump-threading ,3.5525000000000015,llvmorg-10.0.0-rc4
+12,--gvn --simplifycfg ,3.393600000000002,llvmorg-10.0.0-rc4
+13,--gvn --sccp ,3.6100000000000003,llvmorg-10.0.0-rc4
+14,--gvn --ipsccp ,3.6168000000000022,llvmorg-10.0.0-rc4
+15,--gvn --licm ,3.8740999999999994,llvmorg-10.0.0-rc4
+16,--gvn --iv-users ,4.0249999999999995,llvmorg-10.0.0-rc4
+17,--instcombine --inline ,3.9434,llvmorg-10.0.0-rc4
+18,--instcombine --jump-threading ,4.023699999999998,llvmorg-10.0.0-rc4
+19,--instcombine --simplifycfg ,3.9642000000000013,llvmorg-10.0.0-rc4
+20,--instcombine --sccp ,4.1359,llvmorg-10.0.0-rc4
+21,--instcombine --ipsccp ,4.1927,llvmorg-10.0.0-rc4
+22,--instcombine --licm ,4.469900000000002,llvmorg-10.0.0-rc4
+23,--instcombine --iv-users ,4.8827,llvmorg-10.0.0-rc4
+24,--inline --jump-threading ,1.2149,llvmorg-10.0.0-rc4
+25,--inline --simplifycfg ,1.0482999999999998,llvmorg-10.0.0-rc4
+26,--inline --sccp ,1.2345000000000004,llvmorg-10.0.0-rc4
+27,--inline --ipsccp ,1.3564999999999998,llvmorg-10.0.0-rc4
+28,--inline --licm ,1.6793000000000002,llvmorg-10.0.0-rc4
+29,--inline --iv-users ,1.7960000000000005,llvmorg-10.0.0-rc4
+30,--jump-threading --simplifycfg ,1.1130999999999998,llvmorg-10.0.0-rc4
+31,--jump-threading --sccp ,1.3348,llvmorg-10.0.0-rc4
+32,--jump-threading --ipsccp ,1.3855000000000004,llvmorg-10.0.0-rc4
+33,--jump-threading --licm ,1.7525000000000004,llvmorg-10.0.0-rc4
+34,--jump-threading --iv-users ,1.9177000000000008,llvmorg-10.0.0-rc4
+35,--simplifycfg --sccp ,1.2548000000000004,llvmorg-10.0.0-rc4
+36,--simplifycfg --ipsccp ,1.3259999999999996,llvmorg-10.0.0-rc4
+37,--simplifycfg --licm ,1.6722,llvmorg-10.0.0-rc4
+38,--simplifycfg --iv-users ,1.7884000000000002,llvmorg-10.0.0-rc4
+39,--sccp --ipsccp ,1.5181,llvmorg-10.0.0-rc4
+40,--sccp --licm ,1.8255999999999992,llvmorg-10.0.0-rc4
+41,--sccp --iv-users ,2.0010999999999997,llvmorg-10.0.0-rc4
+42,--ipsccp --licm ,1.8745000000000005,llvmorg-10.0.0-rc4
+43,--ipsccp --iv-users ,2.0767999999999995,llvmorg-10.0.0-rc4
+44,--licm --iv-users ,2.4556999999999998,llvmorg-10.0.0-rc4
+45,--gvn --instcombine --inline ,5.3045000000000035,llvmorg-10.0.0-rc4
+46,--gvn --instcombine --jump-threading ,5.347100000000002,llvmorg-10.0.0-rc4
+47,--gvn --instcombine --simplifycfg ,5.283900000000001,llvmorg-10.0.0-rc4
+48,--gvn --instcombine --sccp ,5.407600000000002,llvmorg-10.0.0-rc4
+49,--gvn --instcombine --ipsccp ,5.436999999999997,llvmorg-10.0.0-rc4
+50,--gvn --instcombine --licm ,5.662799999999998,llvmorg-10.0.0-rc4
+51,--gvn --instcombine --iv-users ,6.018100000000002,llvmorg-10.0.0-rc4
+52,--gvn --inline --jump-threading ,3.631699999999999,llvmorg-10.0.0-rc4
+53,--gvn --inline --simplifycfg ,3.4520000000000004,llvmorg-10.0.0-rc4
+54,--gvn --inline --sccp ,3.590400000000001,llvmorg-10.0.0-rc4
+55,--gvn --inline --ipsccp ,3.719300000000001,llvmorg-10.0.0-rc4
+56,--gvn --inline --licm ,4.008299999999999,llvmorg-10.0.0-rc4
+57,--gvn --inline --iv-users ,4.1526000000000005,llvmorg-10.0.0-rc4
+58,--gvn --jump-threading --simplifycfg ,3.5949999999999984,llvmorg-10.0.0-rc4
+59,--gvn --jump-threading --sccp ,3.726599999999999,llvmorg-10.0.0-rc4
+60,--gvn --jump-threading --ipsccp ,3.7811999999999997,llvmorg-10.0.0-rc4
+61,--gvn --jump-threading --licm ,4.028500000000002,llvmorg-10.0.0-rc4
+62,--gvn --jump-threading --iv-users ,4.2306,llvmorg-10.0.0-rc4
+63,--gvn --simplifycfg --sccp ,3.631000000000002,llvmorg-10.0.0-rc4
+64,--gvn --simplifycfg --ipsccp ,3.7083000000000004,llvmorg-10.0.0-rc4
+65,--gvn --simplifycfg --licm ,3.9966,llvmorg-10.0.0-rc4
+66,--gvn --simplifycfg --iv-users ,4.166700000000001,llvmorg-10.0.0-rc4
+67,--gvn --sccp --ipsccp ,3.7602999999999995,llvmorg-10.0.0-rc4
+68,--gvn --sccp --licm ,4.096700000000001,llvmorg-10.0.0-rc4
+69,--gvn --sccp --iv-users ,4.236000000000001,llvmorg-10.0.0-rc4
+70,--gvn --ipsccp --licm ,4.131200000000001,llvmorg-10.0.0-rc4
+71,--gvn --ipsccp --iv-users ,4.28,llvmorg-10.0.0-rc4
+72,--gvn --licm --iv-users ,4.5539,llvmorg-10.0.0-rc4
+73,--instcombine --inline --jump-threading ,4.107900000000003,llvmorg-10.0.0-rc4
+74,--instcombine --inline --simplifycfg ,4.039299999999999,llvmorg-10.0.0-rc4
+75,--instcombine --inline --sccp ,4.2153,llvmorg-10.0.0-rc4
+76,--instcombine --inline --ipsccp ,4.318300000000001,llvmorg-10.0.0-rc4
+77,--instcombine --inline --licm ,4.5982,llvmorg-10.0.0-rc4
+78,--instcombine --inline --iv-users ,5.016300000000001,llvmorg-10.0.0-rc4
+79,--instcombine --jump-threading --simplifycfg ,4.124499999999999,llvmorg-10.0.0-rc4
+80,--instcombine --jump-threading --sccp ,4.288900000000001,llvmorg-10.0.0-rc4
+81,--instcombine --jump-threading --ipsccp ,4.326999999999998,llvmorg-10.0.0-rc4
+82,--instcombine --jump-threading --licm ,4.610200000000002,llvmorg-10.0.0-rc4
+83,--instcombine --jump-threading --iv-users ,5.000500000000001,llvmorg-10.0.0-rc4
+84,--instcombine --simplifycfg --sccp ,4.2338000000000005,llvmorg-10.0.0-rc4
+85,--instcombine --simplifycfg --ipsccp ,4.3182,llvmorg-10.0.0-rc4
+86,--instcombine --simplifycfg --licm ,4.5646,llvmorg-10.0.0-rc4
+87,--instcombine --simplifycfg --iv-users ,4.9576,llvmorg-10.0.0-rc4
+88,--instcombine --sccp --ipsccp ,4.43,llvmorg-10.0.0-rc4
+89,--instcombine --sccp --licm ,4.6868,llvmorg-10.0.0-rc4
+90,--instcombine --sccp --iv-users ,5.177900000000002,llvmorg-10.0.0-rc4
+91,--instcombine --ipsccp --licm ,4.746399999999999,llvmorg-10.0.0-rc4
+92,--instcombine --ipsccp --iv-users ,5.1641,llvmorg-10.0.0-rc4
+93,--instcombine --licm --iv-users ,5.4544999999999995,llvmorg-10.0.0-rc4
+94,--inline --jump-threading --simplifycfg ,1.2403000000000002,llvmorg-10.0.0-rc4
+95,--inline --jump-threading --sccp ,1.4069000000000003,llvmorg-10.0.0-rc4
+96,--inline --jump-threading --ipsccp ,1.4419000000000004,llvmorg-10.0.0-rc4
+97,--inline --jump-threading --licm ,1.7476000000000003,llvmorg-10.0.0-rc4
+98,--inline --jump-threading --iv-users ,1.8641999999999999,llvmorg-10.0.0-rc4
+99,--inline --simplifycfg --sccp ,1.2502999999999993,llvmorg-10.0.0-rc4
+100,--inline --simplifycfg --ipsccp ,1.3517,llvmorg-10.0.0-rc4
+101,--inline --simplifycfg --licm ,1.7674999999999998,llvmorg-10.0.0-rc4
+102,--inline --simplifycfg --iv-users ,1.8628000000000007,llvmorg-10.0.0-rc4
+103,--inline --sccp --ipsccp ,1.5724999999999996,llvmorg-10.0.0-rc4
+104,--inline --sccp --licm ,1.8604,llvmorg-10.0.0-rc4
+105,--inline --sccp --iv-users ,2.0345,llvmorg-10.0.0-rc4
+106,--inline --ipsccp --licm ,1.9222000000000006,llvmorg-10.0.0-rc4
+107,--inline --ipsccp --iv-users ,2.0533000000000006,llvmorg-10.0.0-rc4
+108,--inline --licm --iv-users ,2.4748,llvmorg-10.0.0-rc4
+109,--jump-threading --simplifycfg --sccp ,1.4037,llvmorg-10.0.0-rc4
+110,--jump-threading --simplifycfg --ipsccp ,1.4708,llvmorg-10.0.0-rc4
+111,--jump-threading --simplifycfg --licm ,1.7906999999999993,llvmorg-10.0.0-rc4
+112,--jump-threading --simplifycfg --iv-users ,1.9247999999999996,llvmorg-10.0.0-rc4
+113,--jump-threading --sccp --ipsccp ,1.6012999999999997,llvmorg-10.0.0-rc4
+114,--jump-threading --sccp --licm ,1.9488000000000005,llvmorg-10.0.0-rc4
+115,--jump-threading --sccp --iv-users ,2.1041000000000007,llvmorg-10.0.0-rc4
+116,--jump-threading --ipsccp --licm ,1.9381000000000002,llvmorg-10.0.0-rc4
+117,--jump-threading --ipsccp --iv-users ,2.1037,llvmorg-10.0.0-rc4
+118,--jump-threading --licm --iv-users ,2.4888,llvmorg-10.0.0-rc4
+119,--simplifycfg --sccp --ipsccp ,1.5003000000000002,llvmorg-10.0.0-rc4
+120,--simplifycfg --sccp --licm ,1.8455999999999992,llvmorg-10.0.0-rc4
+121,--simplifycfg --sccp --iv-users ,2.020200000000001,llvmorg-10.0.0-rc4
+122,--simplifycfg --ipsccp --licm ,1.8778000000000006,llvmorg-10.0.0-rc4
+123,--simplifycfg --ipsccp --iv-users ,2.0516,llvmorg-10.0.0-rc4
+124,--simplifycfg --licm --iv-users ,2.4862000000000006,llvmorg-10.0.0-rc4
+125,--sccp --ipsccp --licm ,2.1378,llvmorg-10.0.0-rc4
+126,--sccp --ipsccp --iv-users ,2.2197000000000005,llvmorg-10.0.0-rc4
+127,--sccp --licm --iv-users ,2.5926,llvmorg-10.0.0-rc4
+128,--ipsccp --licm --iv-users ,2.5538000000000003,llvmorg-10.0.0-rc4
+129,--gvn --instcombine --inline --jump-threading ,5.3332000000000015,llvmorg-10.0.0-rc4
+130,--gvn --instcombine --inline --simplifycfg ,5.199799999999997,llvmorg-10.0.0-rc4
+131,--gvn --instcombine --inline --sccp ,5.358700000000001,llvmorg-10.0.0-rc4
+132,--gvn --instcombine --inline --ipsccp ,5.423999999999999,llvmorg-10.0.0-rc4
+133,--gvn --instcombine --inline --licm ,5.697,llvmorg-10.0.0-rc4
+134,--gvn --instcombine --inline --iv-users ,5.933599999999998,llvmorg-10.0.0-rc4
+135,--gvn --instcombine --jump-threading --simplifycfg ,5.353,llvmorg-10.0.0-rc4
+136,--gvn --instcombine --jump-threading --sccp ,5.408099999999999,llvmorg-10.0.0-rc4
+137,--gvn --instcombine --jump-threading --ipsccp ,5.4139,llvmorg-10.0.0-rc4
+138,--gvn --instcombine --jump-threading --licm ,5.727100000000001,llvmorg-10.0.0-rc4
+139,--gvn --instcombine --jump-threading --iv-users ,6.063200000000001,llvmorg-10.0.0-rc4
+140,--gvn --instcombine --simplifycfg --sccp ,5.445199999999999,llvmorg-10.0.0-rc4
+141,--gvn --instcombine --simplifycfg --ipsccp ,5.461999999999998,llvmorg-10.0.0-rc4
+142,--gvn --instcombine --simplifycfg --licm ,5.6724000000000006,llvmorg-10.0.0-rc4
+143,--gvn --instcombine --simplifycfg --iv-users ,6.078600000000001,llvmorg-10.0.0-rc4
+144,--gvn --instcombine --sccp --ipsccp ,5.614400000000001,llvmorg-10.0.0-rc4
+145,--gvn --instcombine --sccp --licm ,5.7994,llvmorg-10.0.0-rc4
+146,--gvn --instcombine --sccp --iv-users ,6.178,llvmorg-10.0.0-rc4
+147,--gvn --instcombine --ipsccp --licm ,5.837600000000001,llvmorg-10.0.0-rc4
+148,--gvn --instcombine --ipsccp --iv-users ,6.272599999999998,llvmorg-10.0.0-rc4
+149,--gvn --instcombine --licm --iv-users ,6.469300000000001,llvmorg-10.0.0-rc4
+150,--gvn --inline --jump-threading --simplifycfg ,3.6255000000000006,llvmorg-10.0.0-rc4
+151,--gvn --inline --jump-threading --sccp ,3.7064000000000012,llvmorg-10.0.0-rc4
+152,--gvn --inline --jump-threading --ipsccp ,3.7088000000000014,llvmorg-10.0.0-rc4
+153,--gvn --inline --jump-threading --licm ,4.014799999999999,llvmorg-10.0.0-rc4
+154,--gvn --inline --jump-threading --iv-users ,4.264799999999999,llvmorg-10.0.0-rc4
+155,--gvn --inline --simplifycfg --sccp ,3.6210000000000004,llvmorg-10.0.0-rc4
+156,--gvn --inline --simplifycfg --ipsccp ,3.700300000000002,llvmorg-10.0.0-rc4
+157,--gvn --inline --simplifycfg --licm ,3.943600000000001,llvmorg-10.0.0-rc4
+158,--gvn --inline --simplifycfg --iv-users ,4.1328,llvmorg-10.0.0-rc4
+159,--gvn --inline --sccp --ipsccp ,3.8360000000000003,llvmorg-10.0.0-rc4
+160,--gvn --inline --sccp --licm ,4.035800000000002,llvmorg-10.0.0-rc4
+161,--gvn --inline --sccp --iv-users ,4.252,llvmorg-10.0.0-rc4
+162,--gvn --inline --ipsccp --licm ,4.121099999999999,llvmorg-10.0.0-rc4
+163,--gvn --inline --ipsccp --iv-users ,4.2955,llvmorg-10.0.0-rc4
+164,--gvn --inline --licm --iv-users ,4.5257000000000005,llvmorg-10.0.0-rc4
+165,--gvn --jump-threading --simplifycfg --sccp ,3.7590000000000003,llvmorg-10.0.0-rc4
+166,--gvn --jump-threading --simplifycfg --ipsccp ,3.7782,llvmorg-10.0.0-rc4
+167,--gvn --jump-threading --simplifycfg --licm ,4.1488,llvmorg-10.0.0-rc4
+168,--gvn --jump-threading --simplifycfg --iv-users ,4.226599999999998,llvmorg-10.0.0-rc4
+169,--gvn --jump-threading --sccp --ipsccp ,3.8952,llvmorg-10.0.0-rc4
+170,--gvn --jump-threading --sccp --licm ,4.1767,llvmorg-10.0.0-rc4
+171,--gvn --jump-threading --sccp --iv-users ,4.332700000000002,llvmorg-10.0.0-rc4
+172,--gvn --jump-threading --ipsccp --licm ,4.1991,llvmorg-10.0.0-rc4
+173,--gvn --jump-threading --ipsccp --iv-users ,4.4498,llvmorg-10.0.0-rc4
+174,--gvn --jump-threading --licm --iv-users ,4.6072000000000015,llvmorg-10.0.0-rc4
+175,--gvn --simplifycfg --sccp --ipsccp ,3.8021000000000016,llvmorg-10.0.0-rc4
+176,--gvn --simplifycfg --sccp --licm ,4.0663,llvmorg-10.0.0-rc4
+177,--gvn --simplifycfg --sccp --iv-users ,4.2978,llvmorg-10.0.0-rc4
+178,--gvn --simplifycfg --ipsccp --licm ,4.127400000000001,llvmorg-10.0.0-rc4
+179,--gvn --simplifycfg --ipsccp --iv-users ,4.300200000000001,llvmorg-10.0.0-rc4
+180,--gvn --simplifycfg --licm --iv-users ,4.574300000000001,llvmorg-10.0.0-rc4
+181,--gvn --sccp --ipsccp --licm ,4.2394,llvmorg-10.0.0-rc4
+182,--gvn --sccp --ipsccp --iv-users ,4.4257,llvmorg-10.0.0-rc4
+183,--gvn --sccp --licm --iv-users ,4.653199999999998,llvmorg-10.0.0-rc4
+184,--gvn --ipsccp --licm --iv-users ,4.719199999999998,llvmorg-10.0.0-rc4
+185,--instcombine --inline --jump-threading --simplifycfg ,4.1478,llvmorg-10.0.0-rc4
+186,--instcombine --inline --jump-threading --sccp ,4.307500000000002,llvmorg-10.0.0-rc4
+187,--instcombine --inline --jump-threading --ipsccp ,4.386499999999999,llvmorg-10.0.0-rc4
+188,--instcombine --inline --jump-threading --licm ,4.589900000000003,llvmorg-10.0.0-rc4
+189,--instcombine --inline --jump-threading --iv-users ,4.963399999999999,llvmorg-10.0.0-rc4
+190,--instcombine --inline --simplifycfg --sccp ,4.2181,llvmorg-10.0.0-rc4
+191,--instcombine --inline --simplifycfg --ipsccp ,4.296500000000001,llvmorg-10.0.0-rc4
+192,--instcombine --inline --simplifycfg --licm ,4.583700000000001,llvmorg-10.0.0-rc4
+193,--instcombine --inline --simplifycfg --iv-users ,4.896400000000001,llvmorg-10.0.0-rc4
+194,--instcombine --inline --sccp --ipsccp ,4.443599999999999,llvmorg-10.0.0-rc4
+195,--instcombine --inline --sccp --licm ,4.709899999999999,llvmorg-10.0.0-rc4
+196,--instcombine --inline --sccp --iv-users ,5.1134,llvmorg-10.0.0-rc4
+197,--instcombine --inline --ipsccp --licm ,4.690799999999999,llvmorg-10.0.0-rc4
+198,--instcombine --inline --ipsccp --iv-users ,5.1434,llvmorg-10.0.0-rc4
+199,--instcombine --inline --licm --iv-users ,5.4456999999999995,llvmorg-10.0.0-rc4
+200,--instcombine --jump-threading --simplifycfg --sccp ,4.2776000000000005,llvmorg-10.0.0-rc4
+201,--instcombine --jump-threading --simplifycfg --ipsccp ,4.287400000000001,llvmorg-10.0.0-rc4
+202,--instcombine --jump-threading --simplifycfg --licm ,4.614600000000001,llvmorg-10.0.0-rc4
+203,--instcombine --jump-threading --simplifycfg --iv-users ,5.079700000000001,llvmorg-10.0.0-rc4
+204,--instcombine --jump-threading --sccp --ipsccp ,4.554700000000001,llvmorg-10.0.0-rc4
+205,--instcombine --jump-threading --sccp --licm ,4.739699999999999,llvmorg-10.0.0-rc4
+206,--instcombine --jump-threading --sccp --iv-users ,5.207800000000001,llvmorg-10.0.0-rc4
+207,--instcombine --jump-threading --ipsccp --licm ,4.7657,llvmorg-10.0.0-rc4
+208,--instcombine --jump-threading --ipsccp --iv-users ,5.257700000000003,llvmorg-10.0.0-rc4
+209,--instcombine --jump-threading --licm --iv-users ,5.4507,llvmorg-10.0.0-rc4
+210,--instcombine --simplifycfg --sccp --ipsccp ,4.469200000000002,llvmorg-10.0.0-rc4
+211,--instcombine --simplifycfg --sccp --licm ,4.698499999999999,llvmorg-10.0.0-rc4
+212,--instcombine --simplifycfg --sccp --iv-users ,5.0501000000000005,llvmorg-10.0.0-rc4
+213,--instcombine --simplifycfg --ipsccp --licm ,4.7925,llvmorg-10.0.0-rc4
+214,--instcombine --simplifycfg --ipsccp --iv-users ,5.1893,llvmorg-10.0.0-rc4
+215,--instcombine --simplifycfg --licm --iv-users ,5.4831,llvmorg-10.0.0-rc4
+216,--instcombine --sccp --ipsccp --licm ,4.907,llvmorg-10.0.0-rc4
+217,--instcombine --sccp --ipsccp --iv-users ,5.3601,llvmorg-10.0.0-rc4
+218,--instcombine --sccp --licm --iv-users ,5.697999999999998,llvmorg-10.0.0-rc4
+219,--instcombine --ipsccp --licm --iv-users ,5.708500000000003,llvmorg-10.0.0-rc4
+220,--inline --jump-threading --simplifycfg --sccp ,1.4422,llvmorg-10.0.0-rc4
+221,--inline --jump-threading --simplifycfg --ipsccp ,1.4526999999999997,llvmorg-10.0.0-rc4
+222,--inline --jump-threading --simplifycfg --licm ,1.8175999999999994,llvmorg-10.0.0-rc4
+223,--inline --jump-threading --simplifycfg --iv-users ,2.0076999999999994,llvmorg-10.0.0-rc4
+224,--inline --jump-threading --sccp --ipsccp ,1.6811999999999994,llvmorg-10.0.0-rc4
+225,--inline --jump-threading --sccp --licm ,1.9647000000000006,llvmorg-10.0.0-rc4
+226,--inline --jump-threading --sccp --iv-users ,2.1017000000000006,llvmorg-10.0.0-rc4
+227,--inline --jump-threading --ipsccp --licm ,2.0851999999999995,llvmorg-10.0.0-rc4
+228,--inline --jump-threading --ipsccp --iv-users ,2.1598,llvmorg-10.0.0-rc4
+229,--inline --jump-threading --licm --iv-users ,2.5237,llvmorg-10.0.0-rc4
+230,--inline --simplifycfg --sccp --ipsccp ,1.585,llvmorg-10.0.0-rc4
+231,--inline --simplifycfg --sccp --licm ,1.933,llvmorg-10.0.0-rc4
+232,--inline --simplifycfg --sccp --iv-users ,2.123899999999999,llvmorg-10.0.0-rc4
+233,--inline --simplifycfg --ipsccp --licm ,1.9304,llvmorg-10.0.0-rc4
+234,--inline --simplifycfg --ipsccp --iv-users ,2.0544,llvmorg-10.0.0-rc4
+235,--inline --simplifycfg --licm --iv-users ,2.5173000000000005,llvmorg-10.0.0-rc4
+236,--inline --sccp --ipsccp --licm ,2.1696,llvmorg-10.0.0-rc4
+237,--inline --sccp --ipsccp --iv-users ,2.2804,llvmorg-10.0.0-rc4
+238,--inline --sccp --licm --iv-users ,2.6701,llvmorg-10.0.0-rc4
+239,--inline --ipsccp --licm --iv-users ,2.7010000000000014,llvmorg-10.0.0-rc4
+240,--jump-threading --simplifycfg --sccp --ipsccp ,1.6161000000000005,llvmorg-10.0.0-rc4
+241,--jump-threading --simplifycfg --sccp --licm ,2.0340000000000007,llvmorg-10.0.0-rc4
+242,--jump-threading --simplifycfg --sccp --iv-users ,2.145200000000001,llvmorg-10.0.0-rc4
+243,--jump-threading --simplifycfg --ipsccp --licm ,2.0943,llvmorg-10.0.0-rc4
+244,--jump-threading --simplifycfg --ipsccp --iv-users ,2.1889000000000003,llvmorg-10.0.0-rc4
+245,--jump-threading --simplifycfg --licm --iv-users ,2.677300000000001,llvmorg-10.0.0-rc4
+246,--jump-threading --sccp --ipsccp --licm ,2.2099999999999995,llvmorg-10.0.0-rc4
+247,--jump-threading --sccp --ipsccp --iv-users ,2.3116999999999988,llvmorg-10.0.0-rc4
+248,--jump-threading --sccp --licm --iv-users ,2.6540000000000017,llvmorg-10.0.0-rc4
+249,--jump-threading --ipsccp --licm --iv-users ,2.7725,llvmorg-10.0.0-rc4
+250,--simplifycfg --sccp --ipsccp --licm ,2.1670000000000003,llvmorg-10.0.0-rc4
+251,--simplifycfg --sccp --ipsccp --iv-users ,2.2438999999999996,llvmorg-10.0.0-rc4
+252,--simplifycfg --sccp --licm --iv-users ,2.639099999999999,llvmorg-10.0.0-rc4
+253,--simplifycfg --ipsccp --licm --iv-users ,2.6820999999999993,llvmorg-10.0.0-rc4
+254,--sccp --ipsccp --licm --iv-users ,2.8265999999999996,llvmorg-10.0.0-rc4
+255,--gvn --instcombine --inline --jump-threading --simplifycfg ,5.316799999999999,llvmorg-10.0.0-rc4
+256,--gvn --instcombine --inline --jump-threading --sccp ,5.5047999999999995,llvmorg-10.0.0-rc4
+257,--gvn --instcombine --inline --jump-threading --ipsccp ,5.564800000000002,llvmorg-10.0.0-rc4
+258,--gvn --instcombine --inline --jump-threading --licm ,5.830800000000001,llvmorg-10.0.0-rc4
+259,--gvn --instcombine --inline --jump-threading --iv-users ,6.141600000000003,llvmorg-10.0.0-rc4
+260,--gvn --instcombine --inline --simplifycfg --sccp ,5.428800000000001,llvmorg-10.0.0-rc4
+261,--gvn --instcombine --inline --simplifycfg --ipsccp ,5.478700000000001,llvmorg-10.0.0-rc4
+262,--gvn --instcombine --inline --simplifycfg --licm ,5.812400000000002,llvmorg-10.0.0-rc4
+263,--gvn --instcombine --inline --simplifycfg --iv-users ,6.064,llvmorg-10.0.0-rc4
+264,--gvn --instcombine --inline --sccp --ipsccp ,5.627400000000001,llvmorg-10.0.0-rc4
+265,--gvn --instcombine --inline --sccp --licm ,5.8569,llvmorg-10.0.0-rc4
+266,--gvn --instcombine --inline --sccp --iv-users ,6.1722,llvmorg-10.0.0-rc4
+267,--gvn --instcombine --inline --ipsccp --licm ,5.9037,llvmorg-10.0.0-rc4
+268,--gvn --instcombine --inline --ipsccp --iv-users ,6.282500000000004,llvmorg-10.0.0-rc4
+269,--gvn --instcombine --inline --licm --iv-users ,6.4571000000000005,llvmorg-10.0.0-rc4
+270,--gvn --instcombine --jump-threading --simplifycfg --sccp ,5.512300000000001,llvmorg-10.0.0-rc4
+271,--gvn --instcombine --jump-threading --simplifycfg --ipsccp ,5.548699999999998,llvmorg-10.0.0-rc4
+272,--gvn --instcombine --jump-threading --simplifycfg --licm ,5.861500000000001,llvmorg-10.0.0-rc4
+273,--gvn --instcombine --jump-threading --simplifycfg --iv-users ,6.250200000000001,llvmorg-10.0.0-rc4
+274,--gvn --instcombine --jump-threading --sccp --ipsccp ,5.731300000000002,llvmorg-10.0.0-rc4
+275,--gvn --instcombine --jump-threading --sccp --licm ,5.962400000000003,llvmorg-10.0.0-rc4
+276,--gvn --instcombine --jump-threading --sccp --iv-users ,6.319499999999999,llvmorg-10.0.0-rc4
+277,--gvn --instcombine --jump-threading --ipsccp --licm ,5.969999999999999,llvmorg-10.0.0-rc4
+278,--gvn --instcombine --jump-threading --ipsccp --iv-users ,6.3329,llvmorg-10.0.0-rc4
+279,--gvn --instcombine --jump-threading --licm --iv-users ,6.556999999999997,llvmorg-10.0.0-rc4
+280,--gvn --instcombine --simplifycfg --sccp --ipsccp ,5.606600000000001,llvmorg-10.0.0-rc4
+281,--gvn --instcombine --simplifycfg --sccp --licm ,5.893200000000004,llvmorg-10.0.0-rc4
+282,--gvn --instcombine --simplifycfg --sccp --iv-users ,6.212599999999999,llvmorg-10.0.0-rc4
+283,--gvn --instcombine --simplifycfg --ipsccp --licm ,5.898400000000002,llvmorg-10.0.0-rc4
+284,--gvn --instcombine --simplifycfg --ipsccp --iv-users ,6.264,llvmorg-10.0.0-rc4
+285,--gvn --instcombine --simplifycfg --licm --iv-users ,6.473100000000001,llvmorg-10.0.0-rc4
+286,--gvn --instcombine --sccp --ipsccp --licm ,5.982099999999998,llvmorg-10.0.0-rc4
+287,--gvn --instcombine --sccp --ipsccp --iv-users ,6.395200000000001,llvmorg-10.0.0-rc4
+288,--gvn --instcombine --sccp --licm --iv-users ,6.6956,llvmorg-10.0.0-rc4
+289,--gvn --instcombine --ipsccp --licm --iv-users ,6.6408000000000005,llvmorg-10.0.0-rc4
+290,--gvn --inline --jump-threading --simplifycfg --sccp ,3.7420000000000035,llvmorg-10.0.0-rc4
+291,--gvn --inline --jump-threading --simplifycfg --ipsccp ,3.8245,llvmorg-10.0.0-rc4
+292,--gvn --inline --jump-threading --simplifycfg --licm ,4.0857,llvmorg-10.0.0-rc4
+293,--gvn --inline --jump-threading --simplifycfg --iv-users ,4.292400000000001,llvmorg-10.0.0-rc4
+294,--gvn --inline --jump-threading --sccp --ipsccp ,3.8501999999999996,llvmorg-10.0.0-rc4
+295,--gvn --inline --jump-threading --sccp --licm ,4.151,llvmorg-10.0.0-rc4
+296,--gvn --inline --jump-threading --sccp --iv-users ,4.2803,llvmorg-10.0.0-rc4
+297,--gvn --inline --jump-threading --ipsccp --licm ,4.2214,llvmorg-10.0.0-rc4
+298,--gvn --inline --jump-threading --ipsccp --iv-users ,4.390100000000001,llvmorg-10.0.0-rc4
+299,--gvn --inline --jump-threading --licm --iv-users ,4.666799999999999,llvmorg-10.0.0-rc4
+300,--gvn --inline --simplifycfg --sccp --ipsccp ,3.8267,llvmorg-10.0.0-rc4
+301,--gvn --inline --simplifycfg --sccp --licm ,4.0771000000000015,llvmorg-10.0.0-rc4
+302,--gvn --inline --simplifycfg --sccp --iv-users ,4.295800000000002,llvmorg-10.0.0-rc4
+303,--gvn --inline --simplifycfg --ipsccp --licm ,4.1625000000000005,llvmorg-10.0.0-rc4
+304,--gvn --inline --simplifycfg --ipsccp --iv-users ,4.3835,llvmorg-10.0.0-rc4
+305,--gvn --inline --simplifycfg --licm --iv-users ,4.597199999999998,llvmorg-10.0.0-rc4
+306,--gvn --inline --sccp --ipsccp --licm ,4.238400000000001,llvmorg-10.0.0-rc4
+307,--gvn --inline --sccp --ipsccp --iv-users ,4.366900000000001,llvmorg-10.0.0-rc4
+308,--gvn --inline --sccp --licm --iv-users ,4.5905000000000005,llvmorg-10.0.0-rc4
+309,--gvn --inline --ipsccp --licm --iv-users ,4.713000000000002,llvmorg-10.0.0-rc4
+310,--gvn --jump-threading --simplifycfg --sccp --ipsccp ,3.9475000000000002,llvmorg-10.0.0-rc4
+311,--gvn --jump-threading --simplifycfg --sccp --licm ,4.184800000000002,llvmorg-10.0.0-rc4
+312,--gvn --jump-threading --simplifycfg --sccp --iv-users ,4.388700000000001,llvmorg-10.0.0-rc4
+313,--gvn --jump-threading --simplifycfg --ipsccp --licm ,4.2791999999999994,llvmorg-10.0.0-rc4
+314,--gvn --jump-threading --simplifycfg --ipsccp --iv-users ,4.4503,llvmorg-10.0.0-rc4
+315,--gvn --jump-threading --simplifycfg --licm --iv-users ,4.639499999999999,llvmorg-10.0.0-rc4
+316,--gvn --jump-threading --sccp --ipsccp --licm ,4.395300000000001,llvmorg-10.0.0-rc4
+317,--gvn --jump-threading --sccp --ipsccp --iv-users ,4.558,llvmorg-10.0.0-rc4
+318,--gvn --jump-threading --sccp --licm --iv-users ,4.787500000000002,llvmorg-10.0.0-rc4
+319,--gvn --jump-threading --ipsccp --licm --iv-users ,4.828599999999999,llvmorg-10.0.0-rc4
+320,--gvn --simplifycfg --sccp --ipsccp --licm ,4.232700000000001,llvmorg-10.0.0-rc4
+321,--gvn --simplifycfg --sccp --ipsccp --iv-users ,4.4845,llvmorg-10.0.0-rc4
+322,--gvn --simplifycfg --sccp --licm --iv-users ,4.7672,llvmorg-10.0.0-rc4
+323,--gvn --simplifycfg --ipsccp --licm --iv-users ,4.8189,llvmorg-10.0.0-rc4
+324,--gvn --sccp --ipsccp --licm --iv-users ,4.8561,llvmorg-10.0.0-rc4
+325,--instcombine --inline --jump-threading --simplifycfg --sccp ,4.337800000000001,llvmorg-10.0.0-rc4
+326,--instcombine --inline --jump-threading --simplifycfg --ipsccp ,4.390899999999999,llvmorg-10.0.0-rc4
+327,--instcombine --inline --jump-threading --simplifycfg --licm ,4.664800000000003,llvmorg-10.0.0-rc4
+328,--instcombine --inline --jump-threading --simplifycfg --iv-users ,5.102300000000001,llvmorg-10.0.0-rc4
+329,--instcombine --inline --jump-threading --sccp --ipsccp ,4.5397,llvmorg-10.0.0-rc4
+330,--instcombine --inline --jump-threading --sccp --licm ,4.785399999999999,llvmorg-10.0.0-rc4
+331,--instcombine --inline --jump-threading --sccp --iv-users ,5.256200000000002,llvmorg-10.0.0-rc4
+332,--instcombine --inline --jump-threading --ipsccp --licm ,4.930200000000002,llvmorg-10.0.0-rc4
+333,--instcombine --inline --jump-threading --ipsccp --iv-users ,5.281999999999997,llvmorg-10.0.0-rc4
+334,--instcombine --inline --jump-threading --licm --iv-users ,5.553199999999998,llvmorg-10.0.0-rc4
+335,--instcombine --inline --simplifycfg --sccp --ipsccp ,4.5033,llvmorg-10.0.0-rc4
+336,--instcombine --inline --simplifycfg --sccp --licm ,4.820500000000001,llvmorg-10.0.0-rc4
+337,--instcombine --inline --simplifycfg --sccp --iv-users ,5.126800000000001,llvmorg-10.0.0-rc4
+338,--instcombine --inline --simplifycfg --ipsccp --licm ,4.839400000000001,llvmorg-10.0.0-rc4
+339,--instcombine --inline --simplifycfg --ipsccp --iv-users ,5.267000000000001,llvmorg-10.0.0-rc4
+340,--instcombine --inline --simplifycfg --licm --iv-users ,5.508600000000001,llvmorg-10.0.0-rc4
+341,--instcombine --inline --sccp --ipsccp --licm ,4.9944999999999995,llvmorg-10.0.0-rc4
+342,--instcombine --inline --sccp --ipsccp --iv-users ,5.372600000000001,llvmorg-10.0.0-rc4
+343,--instcombine --inline --sccp --licm --iv-users ,5.7149,llvmorg-10.0.0-rc4
+344,--instcombine --inline --ipsccp --licm --iv-users ,5.7488,llvmorg-10.0.0-rc4
+345,--instcombine --jump-threading --simplifycfg --sccp --ipsccp ,4.526,llvmorg-10.0.0-rc4
+346,--instcombine --jump-threading --simplifycfg --sccp --licm ,4.942700000000001,llvmorg-10.0.0-rc4
+347,--instcombine --jump-threading --simplifycfg --sccp --iv-users ,5.217800000000001,llvmorg-10.0.0-rc4
+348,--instcombine --jump-threading --simplifycfg --ipsccp --licm ,4.9136999999999995,llvmorg-10.0.0-rc4
+349,--instcombine --jump-threading --simplifycfg --ipsccp --iv-users ,5.418100000000001,llvmorg-10.0.0-rc4
+350,--instcombine --jump-threading --simplifycfg --licm --iv-users ,5.643900000000001,llvmorg-10.0.0-rc4
+351,--instcombine --jump-threading --sccp --ipsccp --licm ,5.002600000000001,llvmorg-10.0.0-rc4
+352,--instcombine --jump-threading --sccp --ipsccp --iv-users ,5.337900000000001,llvmorg-10.0.0-rc4
+353,--instcombine --jump-threading --sccp --licm --iv-users ,5.8054999999999986,llvmorg-10.0.0-rc4
+354,--instcombine --jump-threading --ipsccp --licm --iv-users ,5.838099999999999,llvmorg-10.0.0-rc4
+355,--instcombine --simplifycfg --sccp --ipsccp --licm ,5.0592,llvmorg-10.0.0-rc4
+356,--instcombine --simplifycfg --sccp --ipsccp --iv-users ,5.440300000000001,llvmorg-10.0.0-rc4
+357,--instcombine --simplifycfg --sccp --licm --iv-users ,5.6965,llvmorg-10.0.0-rc4
+358,--instcombine --simplifycfg --ipsccp --licm --iv-users ,5.671600000000001,llvmorg-10.0.0-rc4
+359,--instcombine --sccp --ipsccp --licm --iv-users ,5.856200000000002,llvmorg-10.0.0-rc4
+360,--inline --jump-threading --simplifycfg --sccp --ipsccp ,1.7360999999999998,llvmorg-10.0.0-rc4
+361,--inline --jump-threading --simplifycfg --sccp --licm ,2.0436,llvmorg-10.0.0-rc4
+362,--inline --jump-threading --simplifycfg --sccp --iv-users ,2.2077999999999998,llvmorg-10.0.0-rc4
+363,--inline --jump-threading --simplifycfg --ipsccp --licm ,2.0628999999999995,llvmorg-10.0.0-rc4
+364,--inline --jump-threading --simplifycfg --ipsccp --iv-users ,2.1780000000000004,llvmorg-10.0.0-rc4
+365,--inline --jump-threading --simplifycfg --licm --iv-users ,2.5778,llvmorg-10.0.0-rc4
+366,--inline --jump-threading --sccp --ipsccp --licm ,2.2039,llvmorg-10.0.0-rc4
+367,--inline --jump-threading --sccp --ipsccp --iv-users ,2.4258,llvmorg-10.0.0-rc4
+368,--inline --jump-threading --sccp --licm --iv-users ,2.7406000000000006,llvmorg-10.0.0-rc4
+369,--inline --jump-threading --ipsccp --licm --iv-users ,2.7091000000000003,llvmorg-10.0.0-rc4
+370,--inline --simplifycfg --sccp --ipsccp --licm ,2.1980999999999997,llvmorg-10.0.0-rc4
+371,--inline --simplifycfg --sccp --ipsccp --iv-users ,2.3500000000000005,llvmorg-10.0.0-rc4
+372,--inline --simplifycfg --sccp --licm --iv-users ,2.682400000000001,llvmorg-10.0.0-rc4
+373,--inline --simplifycfg --ipsccp --licm --iv-users ,2.735200000000001,llvmorg-10.0.0-rc4
+374,--inline --sccp --ipsccp --licm --iv-users ,2.9056000000000006,llvmorg-10.0.0-rc4
+375,--jump-threading --simplifycfg --sccp --ipsccp --licm ,2.2396999999999996,llvmorg-10.0.0-rc4
+376,--jump-threading --simplifycfg --sccp --ipsccp --iv-users ,2.4344000000000006,llvmorg-10.0.0-rc4
+377,--jump-threading --simplifycfg --sccp --licm --iv-users ,2.711300000000001,llvmorg-10.0.0-rc4
+378,--jump-threading --simplifycfg --ipsccp --licm --iv-users ,2.7855000000000003,llvmorg-10.0.0-rc4
+379,--jump-threading --sccp --ipsccp --licm --iv-users ,2.9669000000000003,llvmorg-10.0.0-rc4
+380,--simplifycfg --sccp --ipsccp --licm --iv-users ,2.8944000000000005,llvmorg-10.0.0-rc4
+381,--gvn --instcombine --inline --jump-threading --simplifycfg --sccp ,5.519299999999999,llvmorg-10.0.0-rc4
+382,--gvn --instcombine --inline --jump-threading --simplifycfg --ipsccp ,5.598900000000001,llvmorg-10.0.0-rc4
+383,--gvn --instcombine --inline --jump-threading --simplifycfg --licm ,5.8389,llvmorg-10.0.0-rc4
+384,--gvn --instcombine --inline --jump-threading --simplifycfg --iv-users ,6.189600000000001,llvmorg-10.0.0-rc4
+385,--gvn --instcombine --inline --jump-threading --sccp --ipsccp ,5.674500000000004,llvmorg-10.0.0-rc4
+386,--gvn --instcombine --inline --jump-threading --sccp --licm ,5.849500000000001,llvmorg-10.0.0-rc4
+387,--gvn --instcombine --inline --jump-threading --sccp --iv-users ,6.2568,llvmorg-10.0.0-rc4
+388,--gvn --instcombine --inline --jump-threading --ipsccp --licm ,5.926399999999999,llvmorg-10.0.0-rc4
+389,--gvn --instcombine --inline --jump-threading --ipsccp --iv-users ,6.3126999999999995,llvmorg-10.0.0-rc4
+390,--gvn --instcombine --inline --jump-threading --licm --iv-users ,6.552199999999999,llvmorg-10.0.0-rc4
+391,--gvn --instcombine --inline --simplifycfg --sccp --ipsccp ,5.620099999999999,llvmorg-10.0.0-rc4
+392,--gvn --instcombine --inline --simplifycfg --sccp --licm ,5.8565000000000005,llvmorg-10.0.0-rc4
+393,--gvn --instcombine --inline --simplifycfg --sccp --iv-users ,6.1503,llvmorg-10.0.0-rc4
+394,--gvn --instcombine --inline --simplifycfg --ipsccp --licm ,5.855700000000001,llvmorg-10.0.0-rc4
+395,--gvn --instcombine --inline --simplifycfg --ipsccp --iv-users ,6.244600000000001,llvmorg-10.0.0-rc4
+396,--gvn --instcombine --inline --simplifycfg --licm --iv-users ,6.486400000000001,llvmorg-10.0.0-rc4
+397,--gvn --instcombine --inline --sccp --ipsccp --licm ,5.987900000000001,llvmorg-10.0.0-rc4
+398,--gvn --instcombine --inline --sccp --ipsccp --iv-users ,6.328099999999998,llvmorg-10.0.0-rc4
+399,--gvn --instcombine --inline --sccp --licm --iv-users ,6.520200000000001,llvmorg-10.0.0-rc4
+400,--gvn --instcombine --inline --ipsccp --licm --iv-users ,6.600799999999999,llvmorg-10.0.0-rc4
+401,--gvn --instcombine --jump-threading --simplifycfg --sccp --ipsccp ,5.6275,llvmorg-10.0.0-rc4
+402,--gvn --instcombine --jump-threading --simplifycfg --sccp --licm ,5.8813,llvmorg-10.0.0-rc4
+403,--gvn --instcombine --jump-threading --simplifycfg --sccp --iv-users ,6.2783,llvmorg-10.0.0-rc4
+404,--gvn --instcombine --jump-threading --simplifycfg --ipsccp --licm ,5.953799999999999,llvmorg-10.0.0-rc4
+405,--gvn --instcombine --jump-threading --simplifycfg --ipsccp --iv-users ,6.303299999999998,llvmorg-10.0.0-rc4
+406,--gvn --instcombine --jump-threading --simplifycfg --licm --iv-users ,6.519800000000001,llvmorg-10.0.0-rc4
+407,--gvn --instcombine --jump-threading --sccp --ipsccp --licm ,6.096200000000002,llvmorg-10.0.0-rc4
+408,--gvn --instcombine --jump-threading --sccp --ipsccp --iv-users ,6.392299999999999,llvmorg-10.0.0-rc4
+409,--gvn --instcombine --jump-threading --sccp --licm --iv-users ,6.6797999999999975,llvmorg-10.0.0-rc4
+410,--gvn --instcombine --jump-threading --ipsccp --licm --iv-users ,6.6865000000000006,llvmorg-10.0.0-rc4
+411,--gvn --instcombine --simplifycfg --sccp --ipsccp --licm ,6.061500000000002,llvmorg-10.0.0-rc4
+412,--gvn --instcombine --simplifycfg --sccp --ipsccp --iv-users ,6.3528,llvmorg-10.0.0-rc4
+413,--gvn --instcombine --simplifycfg --sccp --licm --iv-users ,6.582500000000001,llvmorg-10.0.0-rc4
+414,--gvn --instcombine --simplifycfg --ipsccp --licm --iv-users ,6.653599999999999,llvmorg-10.0.0-rc4
+415,--gvn --instcombine --sccp --ipsccp --licm --iv-users ,6.742900000000001,llvmorg-10.0.0-rc4
+416,--gvn --inline --jump-threading --simplifycfg --sccp --ipsccp ,3.9876,llvmorg-10.0.0-rc4
+417,--gvn --inline --jump-threading --simplifycfg --sccp --licm ,4.189199999999999,llvmorg-10.0.0-rc4
+418,--gvn --inline --jump-threading --simplifycfg --sccp --iv-users ,4.443200000000001,llvmorg-10.0.0-rc4
+419,--gvn --inline --jump-threading --simplifycfg --ipsccp --licm ,4.248399999999999,llvmorg-10.0.0-rc4
+420,--gvn --inline --jump-threading --simplifycfg --ipsccp --iv-users ,4.5118,llvmorg-10.0.0-rc4
+421,--gvn --inline --jump-threading --simplifycfg --licm --iv-users ,4.7106,llvmorg-10.0.0-rc4
+422,--gvn --inline --jump-threading --sccp --ipsccp --licm ,4.359600000000001,llvmorg-10.0.0-rc4
+423,--gvn --inline --jump-threading --sccp --ipsccp --iv-users ,4.591399999999999,llvmorg-10.0.0-rc4
+424,--gvn --inline --jump-threading --sccp --licm --iv-users ,4.8473,llvmorg-10.0.0-rc4
+425,--gvn --inline --jump-threading --ipsccp --licm --iv-users ,4.824900000000001,llvmorg-10.0.0-rc4
+426,--gvn --inline --simplifycfg --sccp --ipsccp --licm ,4.296400000000001,llvmorg-10.0.0-rc4
+427,--gvn --inline --simplifycfg --sccp --ipsccp --iv-users ,4.494200000000001,llvmorg-10.0.0-rc4
+428,--gvn --inline --simplifycfg --sccp --licm --iv-users ,4.737400000000002,llvmorg-10.0.0-rc4
+429,--gvn --inline --simplifycfg --ipsccp --licm --iv-users ,4.790800000000001,llvmorg-10.0.0-rc4
+430,--gvn --inline --sccp --ipsccp --licm --iv-users ,4.938799999999999,llvmorg-10.0.0-rc4
+431,--gvn --jump-threading --simplifycfg --sccp --ipsccp --licm ,4.458,llvmorg-10.0.0-rc4
+432,--gvn --jump-threading --simplifycfg --sccp --ipsccp --iv-users ,4.606,llvmorg-10.0.0-rc4
+433,--gvn --jump-threading --simplifycfg --sccp --licm --iv-users ,4.8571,llvmorg-10.0.0-rc4
+434,--gvn --jump-threading --simplifycfg --ipsccp --licm --iv-users ,4.8504000000000005,llvmorg-10.0.0-rc4
+435,--gvn --jump-threading --sccp --ipsccp --licm --iv-users ,4.991699999999999,llvmorg-10.0.0-rc4
+436,--gvn --simplifycfg --sccp --ipsccp --licm --iv-users ,4.940200000000001,llvmorg-10.0.0-rc4
+437,--instcombine --inline --jump-threading --simplifycfg --sccp --ipsccp ,4.596499999999999,llvmorg-10.0.0-rc4
+438,--instcombine --inline --jump-threading --simplifycfg --sccp --licm ,4.896800000000001,llvmorg-10.0.0-rc4
+439,--instcombine --inline --jump-threading --simplifycfg --sccp --iv-users ,5.2236,llvmorg-10.0.0-rc4
+440,--instcombine --inline --jump-threading --simplifycfg --ipsccp --licm ,4.905100000000002,llvmorg-10.0.0-rc4
+441,--instcombine --inline --jump-threading --simplifycfg --ipsccp --iv-users ,5.282699999999999,llvmorg-10.0.0-rc4
+442,--instcombine --inline --jump-threading --simplifycfg --licm --iv-users ,5.592700000000001,llvmorg-10.0.0-rc4
+443,--instcombine --inline --jump-threading --sccp --ipsccp --licm ,5.229799999999999,llvmorg-10.0.0-rc4
+444,--instcombine --inline --jump-threading --sccp --ipsccp --iv-users ,5.428500000000002,llvmorg-10.0.0-rc4
+445,--instcombine --inline --jump-threading --sccp --licm --iv-users ,5.774000000000002,llvmorg-10.0.0-rc4
+446,--instcombine --inline --jump-threading --ipsccp --licm --iv-users ,5.855200000000002,llvmorg-10.0.0-rc4
+447,--instcombine --inline --simplifycfg --sccp --ipsccp --licm ,4.9691,llvmorg-10.0.0-rc4
+448,--instcombine --inline --simplifycfg --sccp --ipsccp --iv-users ,5.398300000000001,llvmorg-10.0.0-rc4
+449,--instcombine --inline --simplifycfg --sccp --licm --iv-users ,5.697699999999999,llvmorg-10.0.0-rc4
+450,--instcombine --inline --simplifycfg --ipsccp --licm --iv-users ,5.709999999999999,llvmorg-10.0.0-rc4
+451,--instcombine --inline --sccp --ipsccp --licm --iv-users ,5.903500000000002,llvmorg-10.0.0-rc4
+452,--instcombine --jump-threading --simplifycfg --sccp --ipsccp --licm ,5.121500000000003,llvmorg-10.0.0-rc4
+453,--instcombine --jump-threading --simplifycfg --sccp --ipsccp --iv-users ,5.487900000000001,llvmorg-10.0.0-rc4
+454,--instcombine --jump-threading --simplifycfg --sccp --licm --iv-users ,5.742999999999999,llvmorg-10.0.0-rc4
+455,--instcombine --jump-threading --simplifycfg --ipsccp --licm --iv-users ,5.837900000000003,llvmorg-10.0.0-rc4
+456,--instcombine --jump-threading --sccp --ipsccp --licm --iv-users ,5.928700000000001,llvmorg-10.0.0-rc4
+457,--instcombine --simplifycfg --sccp --ipsccp --licm --iv-users ,5.919099999999999,llvmorg-10.0.0-rc4
+458,--inline --jump-threading --simplifycfg --sccp --ipsccp --licm ,2.2938000000000005,llvmorg-10.0.0-rc4
+459,--inline --jump-threading --simplifycfg --sccp --ipsccp --iv-users ,2.4997000000000003,llvmorg-10.0.0-rc4
+460,--inline --jump-threading --simplifycfg --sccp --licm --iv-users ,2.7517000000000014,llvmorg-10.0.0-rc4
+461,--inline --jump-threading --simplifycfg --ipsccp --licm --iv-users ,2.7968000000000006,llvmorg-10.0.0-rc4
+462,--inline --jump-threading --sccp --ipsccp --licm --iv-users ,3.040900000000002,llvmorg-10.0.0-rc4
+463,--inline --simplifycfg --sccp --ipsccp --licm --iv-users ,2.8656000000000006,llvmorg-10.0.0-rc4
+464,--jump-threading --simplifycfg --sccp --ipsccp --licm --iv-users ,3.0125,llvmorg-10.0.0-rc4
+465,--gvn --instcombine --inline --jump-threading --simplifycfg --sccp --ipsccp ,5.695500000000003,llvmorg-10.0.0-rc4
+466,--gvn --instcombine --inline --jump-threading --simplifycfg --sccp --licm ,5.9708,llvmorg-10.0.0-rc4
+467,--gvn --instcombine --inline --jump-threading --simplifycfg --sccp --iv-users ,6.3713,llvmorg-10.0.0-rc4
+468,--gvn --instcombine --inline --jump-threading --simplifycfg --ipsccp --licm ,6.0375999999999985,llvmorg-10.0.0-rc4
+469,--gvn --instcombine --inline --jump-threading --simplifycfg --ipsccp --iv-users ,6.4060000000000015,llvmorg-10.0.0-rc4
+470,--gvn --instcombine --inline --jump-threading --simplifycfg --licm --iv-users ,6.5502,llvmorg-10.0.0-rc4
+471,--gvn --instcombine --inline --jump-threading --sccp --ipsccp --licm ,6.1248000000000005,llvmorg-10.0.0-rc4
+472,--gvn --instcombine --inline --jump-threading --sccp --ipsccp --iv-users ,6.4675,llvmorg-10.0.0-rc4
+473,--gvn --instcombine --inline --jump-threading --sccp --licm --iv-users ,6.695800000000002,llvmorg-10.0.0-rc4
+474,--gvn --instcombine --inline --jump-threading --ipsccp --licm --iv-users ,6.736800000000001,llvmorg-10.0.0-rc4
+475,--gvn --instcombine --inline --simplifycfg --sccp --ipsccp --licm ,5.997300000000001,llvmorg-10.0.0-rc4
+476,--gvn --instcombine --inline --simplifycfg --sccp --ipsccp --iv-users ,6.355599999999999,llvmorg-10.0.0-rc4
+477,--gvn --instcombine --inline --simplifycfg --sccp --licm --iv-users ,6.643399999999999,llvmorg-10.0.0-rc4
+478,--gvn --instcombine --inline --simplifycfg --ipsccp --licm --iv-users ,6.745699999999999,llvmorg-10.0.0-rc4
+479,--gvn --instcombine --inline --sccp --ipsccp --licm --iv-users ,6.7254000000000005,llvmorg-10.0.0-rc4
+480,--gvn --instcombine --jump-threading --simplifycfg --sccp --ipsccp --licm ,6.1407,llvmorg-10.0.0-rc4
+481,--gvn --instcombine --jump-threading --simplifycfg --sccp --ipsccp --iv-users ,6.434100000000002,llvmorg-10.0.0-rc4
+482,--gvn --instcombine --jump-threading --simplifycfg --sccp --licm --iv-users ,6.696300000000001,llvmorg-10.0.0-rc4
+483,--gvn --instcombine --jump-threading --simplifycfg --ipsccp --licm --iv-users ,6.7761000000000005,llvmorg-10.0.0-rc4
+484,--gvn --instcombine --jump-threading --sccp --ipsccp --licm --iv-users ,6.859100000000004,llvmorg-10.0.0-rc4
+485,--gvn --instcombine --simplifycfg --sccp --ipsccp --licm --iv-users ,6.717499999999999,llvmorg-10.0.0-rc4
+486,--gvn --inline --jump-threading --simplifycfg --sccp --ipsccp --licm ,4.439800000000002,llvmorg-10.0.0-rc4
+487,--gvn --inline --jump-threading --simplifycfg --sccp --ipsccp --iv-users ,4.5516,llvmorg-10.0.0-rc4
+488,--gvn --inline --jump-threading --simplifycfg --sccp --licm --iv-users ,4.856999999999999,llvmorg-10.0.0-rc4
+489,--gvn --inline --jump-threading --simplifycfg --ipsccp --licm --iv-users ,4.9583,llvmorg-10.0.0-rc4
+490,--gvn --inline --jump-threading --sccp --ipsccp --licm --iv-users ,4.988499999999999,llvmorg-10.0.0-rc4
+491,--gvn --inline --simplifycfg --sccp --ipsccp --licm --iv-users ,4.958900000000001,llvmorg-10.0.0-rc4
+492,--gvn --jump-threading --simplifycfg --sccp --ipsccp --licm --iv-users ,5.043999999999999,llvmorg-10.0.0-rc4
+493,--instcombine --inline --jump-threading --simplifycfg --sccp --ipsccp --licm ,5.101399999999999,llvmorg-10.0.0-rc4
+494,--instcombine --inline --jump-threading --simplifycfg --sccp --ipsccp --iv-users ,5.493500000000001,llvmorg-10.0.0-rc4
+495,--instcombine --inline --jump-threading --simplifycfg --sccp --licm --iv-users ,5.7575,llvmorg-10.0.0-rc4
+496,--instcombine --inline --jump-threading --simplifycfg --ipsccp --licm --iv-users ,5.8133,llvmorg-10.0.0-rc4
+497,--instcombine --inline --jump-threading --sccp --ipsccp --licm --iv-users ,6.008499999999999,llvmorg-10.0.0-rc4
+498,--instcombine --inline --simplifycfg --sccp --ipsccp --licm --iv-users ,5.951599999999998,llvmorg-10.0.0-rc4
+499,--instcombine --jump-threading --simplifycfg --sccp --ipsccp --licm --iv-users ,5.975699999999999,llvmorg-10.0.0-rc4
+500,--inline --jump-threading --simplifycfg --sccp --ipsccp --licm --iv-users ,3.0669000000000004,llvmorg-10.0.0-rc4
+501,--gvn --instcombine --inline --jump-threading --simplifycfg --sccp --ipsccp --licm ,6.183999999999995,llvmorg-10.0.0-rc4
+502,--gvn --instcombine --inline --jump-threading --simplifycfg --sccp --ipsccp --iv-users ,6.4693,llvmorg-10.0.0-rc4
+503,--gvn --instcombine --inline --jump-threading --simplifycfg --sccp --licm --iv-users ,6.785500000000002,llvmorg-10.0.0-rc4
+504,--gvn --instcombine --inline --jump-threading --simplifycfg --ipsccp --licm --iv-users ,6.7589999999999995,llvmorg-10.0.0-rc4
+505,--gvn --instcombine --inline --jump-threading --sccp --ipsccp --licm --iv-users ,6.858800000000002,llvmorg-10.0.0-rc4
+506,--gvn --instcombine --inline --simplifycfg --sccp --ipsccp --licm --iv-users ,6.939500000000002,llvmorg-10.0.0-rc4
+507,--gvn --instcombine --jump-threading --simplifycfg --sccp --ipsccp --licm --iv-users ,6.9687,llvmorg-10.0.0-rc4
+508,--gvn --inline --jump-threading --simplifycfg --sccp --ipsccp --licm --iv-users ,5.115,llvmorg-10.0.0-rc4
+509,--instcombine --inline --jump-threading --simplifycfg --sccp --ipsccp --licm --iv-users ,5.997899999999997,llvmorg-10.0.0-rc4
+510,--gvn --instcombine --inline --jump-threading --simplifycfg --sccp --ipsccp --licm --iv-users ,6.9490000000000025,llvmorg-10.0.0-rc4
