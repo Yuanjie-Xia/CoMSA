@@ -2,7 +2,8 @@
 CoMSA is a modeling driven sampling approach for configuration performance testing.
 CoMSA is designed in scenarios where there does not exist historical performance testing results (code start) and when there exists historical information (warm start).
 # Implementation
-This repo is a offline version.
+This repo is an offline version, which have run all the configuration performance in advance, and simulate the online procedure.
+If you would like to test a online version, you can use the "history_running.py" as a pattern.
 
 The "code+allPerf" folder contain the code files of the approach and two ablation experiments. Respectively, the implementation files are "main.py", "main_ablation1.py" and "main_ablation2.py".
 
